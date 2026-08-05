@@ -4,7 +4,7 @@
 CP423 Course Project
 
 **Repository:** https://github.com/NickKL05/cp423-werewolf-rag
-**Demo video:** [ADD LINK]
+**Demo video:** https://youtu.be/wOOc_iAEFt4
 
 ---
 

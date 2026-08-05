@@ -4,6 +4,9 @@ CP423 course project.
 
 **Nick Kunde-Lenny, 169056417**
 
+**Demo video:** https://youtu.be/wOOc_iAEFt4
+**Report:** [report/REPORT.pdf](report/REPORT.pdf)
+
 A RAG system built over a 1,200 document corpus crawled from the Werewolf: the
 Apocalypse section of the White Wolf Wiki. Three retrievers (BM25, dense, and
 their fusion) are compared against a closed-book ablation, all sharing one
