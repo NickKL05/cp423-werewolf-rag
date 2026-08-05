@@ -83,6 +83,7 @@ def ollama_generate(
         "prompt": prompt,
         "system": system,
         "stream": False,
+        "keep_alive": config.GENERATION_KEEP_ALIVE,
         "options": {
             "temperature": temperature,
             "top_p": config.GENERATION_TOP_P,

@@ -315,6 +315,12 @@ GENERATION_NUM_PREDICT = 512
 GENERATION_NUM_CTX = 8192
 GENERATION_TIMEOUT_SECONDS = 300
 
+# How long Ollama keeps the model resident in VRAM between requests. The
+# default is 5 minutes, which is long enough to unload mid-demo and add a
+# reload pause to the next query. This affects memory residency only, never
+# the generated output, so it has no bearing on reproducibility.
+GENERATION_KEEP_ALIVE = "30m"
+
 REFUSAL_STRING = "I don't know"
 
 SYSTEMS = ["closed_book", "bm25", "dense", "hybrid"]

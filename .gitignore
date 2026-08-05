@@ -14,6 +14,7 @@ data/processed/chunk_embeddings.npy
 
 # Personal working notes, not part of the submitted deliverable
 report/VIDEO_SCRIPT.md
+report/DEMO_QUERIES.txt
 
 # The assignment brief itself. Kept locally, not redistributed.
 Course Project.pdf
