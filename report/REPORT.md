@@ -342,4 +342,4 @@ The ten closed-book diagnostic questions in `eval/diagnostic_questions.json`
 were drafted with LLM assistance and then verified by hand against the corpus
 text, with each model answer judged manually. The 25 gold evaluation questions
 in `eval/gold_questions.csv` were written by the author after reading the
-corpus. Implementation assistance was used in developing the codebase.
+corpus, as the assignment requires.

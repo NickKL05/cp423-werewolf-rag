@@ -191,9 +191,9 @@ instead on whether the system correctly refused.
 
 **Disclosure.** The ten closed-book *diagnostic* questions in
 `eval/diagnostic_questions.json` were drafted with LLM assistance and then
-verified by hand against the corpus text. The 25 *gold evaluation* questions
-were written by a human team member reading the corpus, as the assignment
-requires.
+verified by hand against the corpus text, with each model answer judged
+manually. The 25 *gold evaluation* questions were written by the author after
+reading the corpus, as the assignment requires.
 
 ## Metrics
 
