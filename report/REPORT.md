@@ -233,11 +233,20 @@ Dancers and what they found that corrupted them, which needs the White Howlers
 page for the Great Pit and the Black Spiral Dancers page for the Spiral
 Labyrinth. All five retrieved chunks came from the Black Spiral Dancers page,
 and neither "Great Pit" nor "Spiral Labyrinth" appears anywhere in the retrieved
-context. The generated answer names the White Howlers correctly and then turns
-circular about the cause, because the second hop was never supplied. Deleting
-the second clause and asking only which tribe became the Black Spiral Dancers is
-answered correctly in a single sentence, which isolates the added hop as the
-thing that breaks retrieval.
+context.
+
+The generated answer is worth examining carefully, because it is not wrong. It
+names the White Howlers correctly and says they descended into Malfeas and were
+corrupted, which is true: the Spiral Labyrinth lies within Malfeas. What it never
+does is answer the question that was asked, namely what they found. A reader
+using this system to learn the setting would come away without the Great Pit or
+the Spiral Labyrinth and with no indication that anything was missing. The
+failure is one of specificity rather than accuracy, and it is the more dangerous
+kind for a system whose purpose is to teach a corpus, because a plausible and
+technically true answer offers the user no signal to go and check. Deleting the
+second clause and asking only which tribe became the Black Spiral Dancers is
+answered correctly and precisely in a single sentence, which isolates the added
+hop as the thing that breaks retrieval.
 
 The cause is structural: a multi-hop question is encoded as a single query, so
 whichever hop dominates lexically or semantically pulls the entire ranking toward
@@ -307,24 +316,19 @@ the gold chunk IDs would silently break otherwise. Repeated retrieval for a
 fixed query returns an identical ranking.
 
 **Generation is not bit-reproducible, and this should be stated plainly.**
-Decoding is greedy at temperature 0 with a fixed sampling seed, and repeated
-generation against a fixed context was observed to be identical across five
-consecutive runs. However, output was observed to differ after Ollama unloaded
-and reloaded the model, which is consistent with the known behaviour of
-llama.cpp backends where GPU kernel selection and floating point reduction order
-can vary between loads. Temperature 0 and a fixed seed do not defend against
-this. Consequently the generation-side figures in Tables 2 and 3 should be
-treated as carrying run-to-run variance rather than as exact constants, while
-the retrieval figures in Table 1 are exact.
+Decoding is greedy at temperature 0 with a fixed sampling seed. Within a single
+model load, repeated generation against a fixed context was byte-identical
+across five runs. Across model loads it was not: the Q11 answer reproduced its
+failure in one session and produced the fully correct answer in another, with
+identical retrieved context both times. This is consistent with llama.cpp
+backends, where GPU kernel selection and floating point reduction order can vary
+between loads, and neither temperature 0 nor a fixed seed defends against it.
 
-The practical consequence is worth stating, because it shaped the error analysis
-above. Within a single model load, repeated generation against a fixed context
-was byte-identical across five runs. Across loads it was not: the Q11 answer
-reproduced its failure in one session and produced the fully correct answer in
-another, with identical retrieved context both times. Any claim resting on one
-generated answer is therefore fragile. Claims resting on retrieval outcomes are
-not, which is why the multi-hop analysis above is anchored on which chunks were
-retrieved rather than on what the model said about them.
+Two consequences. The generation figures in Tables 2 and 3 carry run-to-run
+variance and should not be read as exact constants, whereas the retrieval
+figures in Table 1 are exact. And any claim resting on a single generated answer
+is fragile, which is why the error analysis above is anchored on which chunks
+were retrieved rather than on what the model said about them.
 
 A single command reproduces every table above:
 
