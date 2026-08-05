@@ -1,0 +1,11 @@
+{
+  "model": "llama3.1:8b",
+  "n_questions": 10,
+  "auto_keyword_correct": 1,
+  "auto_keyword_accuracy": 0.1,
+  "mean_token_f1": 0.1026,
+  "human_judged": 10,
+  "human_correct": 0,
+  "human_accuracy": 0.0,
+  "note": "Automatic keyword matching is a first pass only and overcounts: it credits any answer containing the keyword, including incoherent ones. The figure quoted in the report is the human accuracy."
+}

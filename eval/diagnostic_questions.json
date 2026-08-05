@@ -1,0 +1,72 @@
+[
+  {
+    "id": "D01",
+    "question": "What title does the Uktena Philodox Ayita Stormcrow hold at the Sept of the Seven Clans?",
+    "reference_answer": "She is the Master of Secrets of the Sept of the Seven Clans.",
+    "answer_keywords": ["master of secrets"],
+    "source_page": "Ayita Stormcrow"
+  },
+  {
+    "id": "D02",
+    "question": "In which mountain range is the Red Talon caern known as the Sept of the Weeping Daughter located?",
+    "reference_answer": "The Wrangell Mountains in Alaska.",
+    "answer_keywords": ["wrangell"],
+    "source_page": "Sept of the Weeping Daughter"
+  },
+  {
+    "id": "D03",
+    "question": "What is the name of the Simba pride led by the Bastet called Black Tooth?",
+    "reference_answer": "The Endless Storm.",
+    "answer_keywords": ["endless storm"],
+    "source_page": "Black Tooth"
+  },
+  {
+    "id": "D04",
+    "question": "In what year did the Simba known as Black Tooth die?",
+    "reference_answer": "1998.",
+    "answer_keywords": ["1998"],
+    "source_page": "Black Tooth"
+  },
+  {
+    "id": "D05",
+    "question": "Which totem spirit presides over the Caern of the Sentinel in the Adirondack Mountains?",
+    "reference_answer": "Tijus-keha, the Sentinel of the Mountain.",
+    "answer_keywords": ["tijus"],
+    "source_page": "Caern of the Sentinel"
+  },
+  {
+    "id": "D06",
+    "question": "Which tribe originally held the Caern of the Sentinel before the Get of Fenris seized it?",
+    "reference_answer": "The Uktena.",
+    "answer_keywords": ["uktena"],
+    "source_page": "Caern of the Sentinel"
+  },
+  {
+    "id": "D07",
+    "question": "Which respected Theurge spoke critically of the Shivans for the first time?",
+    "reference_answer": "Akosha's Eye.",
+    "answer_keywords": ["akosha"],
+    "source_page": "Camp of Shiva"
+  },
+  {
+    "id": "D08",
+    "question": "What is the most noticeable feature of the Crinos form of the Black Spiral Dancer Fangthane Bloodjaw?",
+    "reference_answer": "His protruding lower teeth, each roughly the size of a human finger.",
+    "answer_keywords": ["teeth"],
+    "source_page": "Fangthane Bloodjaw"
+  },
+  {
+    "id": "D09",
+    "question": "At what kind of gathering can Garou be called to join the Silver Pack?",
+    "reference_answer": "A concolation, the rarest kind of moot.",
+    "answer_keywords": ["concolation"],
+    "source_page": "Silver Pack"
+  },
+  {
+    "id": "D10",
+    "question": "Which Shadow Lord camp recruited the Philodox known as the Unlidded Eye?",
+    "reference_answer": "The Judges of Doom.",
+    "answer_keywords": ["judge"],
+    "source_page": "Unlidded Eye (WTA)"
+  }
+]

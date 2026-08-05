@@ -1,0 +1,13 @@
+{
+  "documents": 1200,
+  "chunks": 8988,
+  "mean_chunk_tokens": 146.06,
+  "min_chunk_tokens": 6,
+  "max_chunk_tokens": 250,
+  "mean_doc_words": 1051.5,
+  "min_doc_words": 318,
+  "max_doc_words": 26999,
+  "chunk_target_tokens": 250,
+  "chunk_overlap_tokens": 50,
+  "min_doc_words_filter": 200
+}
