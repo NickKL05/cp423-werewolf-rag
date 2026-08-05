@@ -114,17 +114,24 @@ Requires Python 3.11 and [Ollama](https://ollama.com).
 
 ```bash
 python -m venv .venv
-.venv\Scripts\activate
-pip install -r requirements.txt
+.venv\Scripts\python.exe -m pip install -r requirements.txt
 ollama pull llama3.1:8b
 ```
+
+Every command below calls `.venv\Scripts\python.exe` explicitly rather than a
+bare `python`. This is deliberate. A bare `python` silently resolves to whatever
+is first on PATH, and a global interpreter carrying a partial PyTorch install
+produces confusing failures such as `ModuleNotFoundError: No module named
+'torchvision'` that have nothing to do with this project. Activating the venv
+first and using bare `python` works equally well, but the explicit path cannot
+be got wrong.
 
 ## Reproducing the results
 
 One command reproduces every table in the report:
 
 ```bash
-python run_all.py
+.venv\Scripts\python.exe run_all.py
 ```
 
 This preprocesses the committed snapshot, builds the dense index, runs the
@@ -146,7 +153,7 @@ The network crawl is deliberately excluded from `run_all.py`. The snapshot in
 refetch it:
 
 ```bash
-python run_all.py --crawl
+.venv\Scripts\python.exe run_all.py --crawl
 ```
 
 Note that recrawling produces a different snapshot, which reassigns chunk IDs and
@@ -155,7 +162,7 @@ invalidates the gold chunk IDs in the evaluation set.
 ## Demo application
 
 ```bash
-streamlit run app/streamlit_app.py
+.venv\Scripts\python.exe -m streamlit run app/streamlit_app.py
 ```
 
 Two tabs. **Ask** runs a question through any retriever and shows the retrieved
