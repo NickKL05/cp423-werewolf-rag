@@ -226,26 +226,47 @@ supplied in that prompt.
 falls from 0.768 on factoid questions to 0.383 on multi-hop, and Recall@5 from
 0.933 to 0.400. Inspecting which gold chunks reached the top 5, no system
 retrieved both required chunks for more than one of the five multi-hop
-questions, and Q16 was missed entirely by all three. The cause is structural: a
-multi-hop question is encoded as a single query, so whichever hop dominates the
-query lexically or semantically pulls the whole ranking toward one page and the
-second page never surfaces. Query decomposition, or an iterative retrieve-read
-loop that issues a follow-up query using the first hop's result, is the standard
-remedy and would be the first thing to add.
+questions, and Q16 was missed entirely by all three.
 
-**Generation can fail even when retrieval succeeds.** Q11 asks how much starting
-Gnosis each Garou breed receives. The gold chunk was retrieved and ranked inside
-the top 5, and it states the answer explicitly: "Homid characters start out with
-the least Gnosis (1), Lupus Characters with the most (5) and Metis characters
-start out in the middle (3)." The model nevertheless answered that only the
-Homid value was available, that "there is no information provided about the
-other breeds", and then imported an unrelated fact about Rokea from a different
-chunk. Two causes are plausible. The values are bound to superlatives rather
-than stated as a list, which requires the model to resolve "the most" to 5 and
-"the middle" to 3. Separately, the cleaning step strips wiki tables entirely, so
-wherever the same data was presented as a table it was discarded, leaving only
-this prose form. Preserving tables during preprocessing, or adding a worked
-extraction example to the prompt, would address this directly.
+Q16 shows the mechanism plainly. It asks which tribe became the Black Spiral
+Dancers and what they found that corrupted them, which needs the White Howlers
+page for the Great Pit and the Black Spiral Dancers page for the Spiral
+Labyrinth. All five retrieved chunks came from the Black Spiral Dancers page,
+and neither "Great Pit" nor "Spiral Labyrinth" appears anywhere in the retrieved
+context. The generated answer names the White Howlers correctly and then turns
+circular about the cause, because the second hop was never supplied. Deleting
+the second clause and asking only which tribe became the Black Spiral Dancers is
+answered correctly in a single sentence, which isolates the added hop as the
+thing that breaks retrieval.
+
+The cause is structural: a multi-hop question is encoded as a single query, so
+whichever hop dominates lexically or semantically pulls the entire ranking toward
+one page and the second page never surfaces. Query decomposition, or an
+iterative retrieve-read loop that issues a follow-up query using the first hop's
+result, is the standard remedy and would be the first thing to add.
+
+**Generation can fail even when retrieval succeeds, but unstably.** Q11 asks how
+much starting Gnosis each Garou breed receives. The gold chunk was retrieved and
+ranked inside the top 5, and it states the answer explicitly: "Homid characters
+start out with the least Gnosis (1), Lupus Characters with the most (5) and
+Metis characters start out in the middle (3)." In the recorded evaluation run
+the model reported only the Homid value and claimed no information was available
+about the other breeds, then supplied Gnosis values for Gurahl, Mokole, Nuwisha
+and Rokea, which are not Garou breeds at all but separate Changing Breed species.
+
+Repeating the query with byte-identical retrieved context did not reproduce
+consistently. Across sessions it sometimes reproduced that failure and sometimes
+extracted all three values correctly. The variation tracks Ollama model reloads
+rather than anything in the pipeline, and is discussed in section 8. Two
+conclusions follow. Values bound to superlatives rather than stated as a list sit
+close to this model's extraction limit, so tiny numerical differences in the
+forward pass are enough to flip the outcome; the wiki's overloading of the word
+"breed" compounds it. More importantly, any single generated answer is weak
+evidence about this system. Conclusions should rest on aggregate metrics and on
+retrieval-level diagnostics, which are exact and reproducible, rather than on an
+individual output. Preserving wiki tables during preprocessing instead of
+stripping them, and adding a worked extraction example to the prompt, would both
+reduce the difficulty of this particular case.
 
 **Automatic answer metrics understate quality.** Exact match is 0.000 for every
 system, which reflects the fact that reference answers are full sentences rather
@@ -273,11 +294,38 @@ would be the obvious next improvement alongside multi-hop query decomposition.
 
 ## 8. Reproducibility
 
-Seeds are fixed at 42 and applied to Python, NumPy and torch; decoding is greedy
-at temperature 0 with a fixed sampling seed; and retrieval tie-breaking is
-deterministic. The corpus snapshot, the chunk file and the evaluation set are all
-committed, so the network crawl is not on the reproduction path and results do
-not drift as the wiki is edited. Dependencies are pinned in `requirements.txt`.
+Seeds are fixed at 42 and applied to Python, NumPy and torch, and retrieval
+tie-breaking is deterministic. The corpus snapshot, the chunk file and the
+evaluation set are all committed, so the network crawl is not on the
+reproduction path and results do not drift as the wiki is edited. Dependencies
+are pinned in `requirements.txt`.
+
+**The retrieval pipeline is bit-reproducible and this was verified.** Cloning
+the repository into a clean directory and rerunning preprocessing produces a
+`chunks.jsonl` identical by SHA256 to the committed one, which matters because
+the gold chunk IDs would silently break otherwise. Repeated retrieval for a
+fixed query returns an identical ranking.
+
+**Generation is not bit-reproducible, and this should be stated plainly.**
+Decoding is greedy at temperature 0 with a fixed sampling seed, and repeated
+generation against a fixed context was observed to be identical across five
+consecutive runs. However, output was observed to differ after Ollama unloaded
+and reloaded the model, which is consistent with the known behaviour of
+llama.cpp backends where GPU kernel selection and floating point reduction order
+can vary between loads. Temperature 0 and a fixed seed do not defend against
+this. Consequently the generation-side figures in Tables 2 and 3 should be
+treated as carrying run-to-run variance rather than as exact constants, while
+the retrieval figures in Table 1 are exact.
+
+The practical consequence is worth stating, because it shaped the error analysis
+above. Within a single model load, repeated generation against a fixed context
+was byte-identical across five runs. Across loads it was not: the Q11 answer
+reproduced its failure in one session and produced the fully correct answer in
+another, with identical retrieved context both times. Any claim resting on one
+generated answer is therefore fragile. Claims resting on retrieval outcomes are
+not, which is why the multi-hop analysis above is anchored on which chunks were
+retrieved rather than on what the model said about them.
+
 A single command reproduces every table above:
 
 ```
