@@ -1,26 +1,26 @@
 question_id,question_type,question,reference_answer,gold_chunk_ids,gold_doc_ids,notes
-Q01,factoid,,,,,
-Q02,factoid,,,,,
-Q03,factoid,,,,,
-Q04,factoid,,,,,
-Q05,factoid,,,,,
-Q06,factoid,,,,,
-Q07,factoid,,,,,
-Q08,factoid,,,,,
-Q09,factoid,,,,,
-Q10,factoid,,,,,
-Q11,factoid,,,,,
-Q12,factoid,,,,,
-Q13,factoid,,,,,
-Q14,factoid,,,,,
-Q15,factoid,,,,,
-Q16,multi_hop,,,,,
-Q17,multi_hop,,,,,
-Q18,multi_hop,,,,,
-Q19,multi_hop,,,,,
-Q20,multi_hop,,,,,
-Q21,unanswerable,,I don't know,,,
-Q22,unanswerable,,I don't know,,,
-Q23,unanswerable,,I don't know,,,
-Q24,unanswerable,,I don't know,,,
-Q25,unanswerable,,I don't know,,,
+Q01,factoid,"How often do the Fianna recite the Litany in its entirety, and where do they do it?","Four times a year the Fianna gather in their tribal homelands to recite the whole Litany, which can take hours.",C04249,WTA0611,"Detail is buried in the Overview section rather than the tenet list, so lexical retrieval on 'Litany' tends to surface the tenets instead."
+Q02,factoid,Which group of humans is completely immune to the Delirium?,"Kinfolk are entirely immune to the Delirium, unlike other humans who see a shapeshifter in its war form.",C02035,WTA0267,Short intro chunk; the answer is a single clause and easy for a generator to miss.
+Q03,factoid,What was the Impergium?,The Impergium was the prehistoric culling of human populations carried out by the Garou to keep humanity in check.,C03576,WTA0498,Straightforward definitional lookup.
+Q04,factoid,"Why are metis born, and what two traits do all metis share?","Metis are the offspring of two Garou who broke the Litany by mating. They are born in Crinos form, are sterile, and carry an innate deformity.",C04515,WTA0662,Answer requires combining sterility and Crinos birth from one chunk.
+Q05,factoid,"What material is a klaive made from, and why is that significant for the Garou who wields it?","A klaive is forged from silver, which is deadly to Garou, so klaives are rare and are often made by Kinfolk smiths.",C04059,WTA0576,The 'why' is implicit in the chunk and needs a small inference step.
+Q06,factoid,How does silver damage affect metis differently from other Garou?,"Metis have no breed form to shelter them, so they take unsoakable aggravated damage from silver in any form.",C07473,WTA0972,Mechanics-heavy chunk; distractor chunks about silver appear on several other pages.
+Q07,factoid,"Which moon phase governs the Ahroun auspice, and what role does it assign?",The Ahroun is born under the full moon and serves as the warrior and living weapon of Gaia.,C00085,WTA0018,"Simple factoid, but auspice pages share very similar phrasing and can be confused."
+Q08,factoid,How did the Croatan tribe come to an end?,The entire tribe died in 1589 sacrificing itself in a ritual that drove the Eater-of-Souls back to the Deep Umbra and Malfeas.,C01910,WTA0244,Date plus entity name; tests whether the generator preserves the specific year.
+Q09,factoid,"What event destroyed the Bunyip, and what animal were their Kinfolk?","European Garou wiped out the Bunyip in the War of Tears, and their animal Kinfolk were thylacines, which went extinct in the 1930s.",C01308,WTA0173,Two facts sit in the same chunk but in different sentences.
+Q10,factoid,What do the Black Spiral Dancers call their septs and their caerns?,Black Spiral Dancer septs are called Hives and the caerns where they raise their young are called Pits.,C01044,WTA0132,"Terminology question; the page is long, so the Organization chunk competes with many History chunks."
+Q11,factoid,How much starting Gnosis does each Garou breed receive?,"Homid characters start with 1 Gnosis, metis with 3, and lupus with 5.",C02914,WTA0397,"Numeric answer, easy to hallucinate if the right chunk is not retrieved."
+Q12,factoid,What is a sept in Garou society?,"A sept is the community of Garou who live near a caern and defend it from the Wyrm, the Weaver, and other threats.",C07200,WTA0932,"Common term with many passing mentions across the corpus, so retrieval precision matters."
+Q13,factoid,What membership restriction does the Black Furies tribe apply?,"The Black Furies accept only women as members, with the exception of a few male metis.",C00895,WTA0128,The metis exception is the part most likely to be dropped in a generated answer.
+Q14,factoid,Why are the Corax immune to silver?,"The Corax are tied to Helios and the sun rather than Luna and the moon, so silver has no power over them. Gold affects them instead.",C07476,WTA0972,Requires reading a Fera specific subsection of a page that is mostly about Garou.
+Q15,factoid,What are the three heads of the Triatic Wyrm called?,"They are Beast-of-War the Wyrm of Calamity, Eater-of-Souls, and the Defiler Wyrm the Wyrm of Corruption.",C08868;C08869,WTA1186,"The three names are split across two adjacent chunks on the same page, so a single chunk retrieval gives an incomplete answer."
+Q16,multi_hop,"Which Garou tribe became the Black Spiral Dancers, and what did they find that led to their corruption?","The White Howlers became the Black Spiral Dancers. They discovered the Great Pit, a portal into Malfeas, and descended into the Spiral Labyrinth there, where the Wyrm corrupted them.",C08785;C01035,WTA1170;WTA0132,Needs the White Howlers page for the Great Pit and the Black Spiral Dancers page for the Spiral Labyrinth. Neither page alone gives both halves.
+Q17,multi_hop,"The Delirium is explained by an era of Garou violence against humans. What was that era called, and who led the council that decided to begin it?","The era was the Impergium, and the council that set human culling quotas was led by the Silver Fangs.",C02036;C03577,WTA0267;WTA0498,The Delirium page names the Impergium but not its origin; the Impergium page names the Silver Fangs but does not discuss Delirium mechanics.
+Q18,multi_hop,"Which Litany tenet do metis violate the existence of, and what unique silver weakness do they carry as a result of having no breed form?","They exist because their parents broke the tenet 'Garou Shall Not Mate With Garou'. Because they lack a breed form, metis take unsoakable aggravated damage from silver in any form.",C04251;C07473,WTA0611;WTA0972,Tenet wording comes from the Litany page and the silver mechanic from the Silver page. Requires linking a social law to a combat rule.
+Q19,multi_hop,Two Garou tribes went extinct at the hands of very different enemies. How did the Croatan and the Bunyip each meet their end?,"The Croatan destroyed themselves in a 1589 ritual to banish the Eater-of-Souls, while the Bunyip were exterminated by European Garou during the War of Tears.",C01910;C01308,WTA0244;WTA0173,Comparative question across two separate tribe pages. Neither page mentions the other tribe's fate.
+Q20,multi_hop,"Rage is a gift from Luna and is what makes shapeshifters vulnerable to silver. Which Fera lack Rage and are therefore unharmed by it, and why are the Corax also immune?","The Nuwisha have no Rage and so take no special damage from silver. The Corax are immune because they are linked to the sun rather than the moon, and gold harms them instead.",C06111;C07476,WTA0827;WTA0972,"The causal rule sits on the Rage page and the Corax exception on the Silver page, so both are needed to explain the two immunities."
+Q21,unanswerable,"What was the name of the fourth Garou tribe that crossed the ice into the Pure Lands alongside the Uktena, Wendigo, and Croatan?",I don't know,,,"The corpus states there were exactly three Pure Lands tribes, so the premise is false. Tests whether the system refuses rather than inventing a fourth name."
+Q22,unanswerable,Which totem do the Ashen Hunters tribe follow?,I don't know,,,"The Ashen Hunters are an invented tribe that appears nowhere in the corpus, but the phrasing matches real tribe and totem questions."
+Q23,unanswerable,What was Lore-Speaker Gron's auspice?,I don't know,,,"Gron is a named figure on the Impergium page but the wiki never states an auspice. The name is retrievable, which makes a confident wrong answer likely."
+Q24,unanswerable,How many Black Spiral Dancer Hives are active in North America during the Final Nights?,I don't know,,,The corpus describes Hives migrating to the New World but gives no count. Tests refusal on a plausible quantitative detail.
+Q25,unanswerable,What was the birth name of the first Garou to survive dancing the Black Spiral?,I don't know,,,The corpus discusses dancing the spiral as a rite but never names a first survivor. Highly retrievable context with no answer in it.
