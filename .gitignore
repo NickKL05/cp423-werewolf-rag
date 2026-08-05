@@ -12,6 +12,9 @@ __pycache__/
 # chunk file, so it does not need to be version controlled.
 data/processed/chunk_embeddings.npy
 
+# Personal working notes, not part of the submitted deliverable
+report/VIDEO_SCRIPT.md
+
 # Editor and OS noise
 .vscode/
 .idea/
