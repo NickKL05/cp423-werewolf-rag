@@ -1,0 +1,28 @@
+{
+  "model_name": "llama3.1:8b",
+  "access_method": "local Ollama HTTP API at http://localhost:11434",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "seed": 42,
+  "num_predict": 512,
+  "num_ctx": 8192,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "top_k_chunks": 5,
+  "model_details": {
+    "parameter_size": "8.0B",
+    "quantization_level": "Q4_K_M",
+    "family": "llama",
+    "digest": null
+  },
+  "system_prompt_rag": "You are a careful research assistant answering questions about the tabletop roleplaying game Werewolf: the Apocalypse.\n\nFollow these rules exactly:\n1. Answer using ONLY the information in the context passages provided. Never use prior knowledge, even if you believe you know the answer.\n2. Cite the supporting passage inline using its ID in square brackets, for example [C00123]. Every factual claim needs a citation.\n3. If the context passages do not contain enough information to answer the question, reply with exactly: I don't know\n4. Do not speculate, and do not pad the answer. Three sentences at most.",
+  "system_prompt_closed_book": "You are a careful research assistant answering questions about the tabletop roleplaying game Werewolf: the Apocalypse.\n\nFollow these rules exactly:\n1. Answer from your own knowledge. No reference material is provided.\n2. If you do not know the answer, reply with exactly: I don't know\n3. Do not speculate, and do not pad the answer. Three sentences at most.",
+  "system_prompt_diagnostic": "You are answering trivia questions about the tabletop roleplaying game Werewolf: the Apocalypse from your own knowledge.\n\nAnswer each question as accurately and specifically as you can. If you are uncertain, still give your single best answer rather than declining. Reply in one or two sentences.",
+  "systems": [
+    "closed_book",
+    "bm25",
+    "dense",
+    "hybrid"
+  ],
+  "n_questions": 25,
+  "n_chunks": 8988
+}

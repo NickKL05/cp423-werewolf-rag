@@ -1,0 +1,3891 @@
+[
+  {
+    "system": "closed_book",
+    "question_id": "Q01",
+    "question": "How often do the Fianna recite the Litany in its entirety, and where do they do it?",
+    "question_type": "factoid",
+    "reference_answer": "Four times a year the Fianna gather in their tribal homelands to recite the whole Litany, which can take hours.",
+    "gold_chunk_ids": [
+      "C04249"
+    ],
+    "gold_doc_ids": [
+      "WTA0611"
+    ],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "I don't know.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "closed_book",
+    "question_id": "Q02",
+    "question": "Which group of humans is completely immune to the Delirium?",
+    "question_type": "factoid",
+    "reference_answer": "Kinfolk are entirely immune to the Delirium, unlike other humans who see a shapeshifter in its war form.",
+    "gold_chunk_ids": [
+      "C02035"
+    ],
+    "gold_doc_ids": [
+      "WTA0267"
+    ],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "I don't know.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "closed_book",
+    "question_id": "Q03",
+    "question": "What was the Impergium?",
+    "question_type": "factoid",
+    "reference_answer": "The Impergium was the prehistoric culling of human populations carried out by the Garou to keep humanity in check.",
+    "gold_chunk_ids": [
+      "C03576"
+    ],
+    "gold_doc_ids": [
+      "WTA0498"
+    ],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "The Impergium was a period of time in the Werewolf: the Apocalypse universe where humans were allowed to hunt werewolves with impunity, essentially giving them free rein to kill any lycanthrope they encountered. This period was marked by widespread violence and persecution against werewolves. It was a dark time for the Garou nation.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "closed_book",
+    "question_id": "Q04",
+    "question": "Why are metis born, and what two traits do all metis share?",
+    "question_type": "factoid",
+    "reference_answer": "Metis are the offspring of two Garou who broke the Litany by mating. They are born in Crinos form, are sterile, and carry an innate deformity.",
+    "gold_chunk_ids": [
+      "C04515"
+    ],
+    "gold_doc_ids": [
+      "WTA0662"
+    ],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "Metis are born as a result of a werewolf (either Garou or Kin) mating with a human. All Metis share the physical trait of being able to see in low light conditions, similar to their werewolf parent, and they also possess a heightened sense of smell. This is due to their mixed heritage.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "closed_book",
+    "question_id": "Q05",
+    "question": "What material is a klaive made from, and why is that significant for the Garou who wields it?",
+    "question_type": "factoid",
+    "reference_answer": "A klaive is forged from silver, which is deadly to Garou, so klaives are rare and are often made by Kinfolk smiths.",
+    "gold_chunk_ids": [
+      "C04059"
+    ],
+    "gold_doc_ids": [
+      "WTA0576"
+    ],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "A klaive is typically made from silver or a silver alloy. This is significant because silver is toxic to werewolves, causing them pain and weakening their powers when in contact with it. The use of silver in a klaive serves as a constant reminder of the Garou's vulnerability to the metal.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "closed_book",
+    "question_id": "Q06",
+    "question": "How does silver damage affect metis differently from other Garou?",
+    "question_type": "factoid",
+    "reference_answer": "Metis have no breed form to shelter them, so they take unsoakable aggravated damage from silver in any form.",
+    "gold_chunk_ids": [
+      "C07473"
+    ],
+    "gold_doc_ids": [
+      "WTA0972"
+    ],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "I don't know.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "closed_book",
+    "question_id": "Q07",
+    "question": "Which moon phase governs the Ahroun auspice, and what role does it assign?",
+    "question_type": "factoid",
+    "reference_answer": "The Ahroun is born under the full moon and serves as the warrior and living weapon of Gaia.",
+    "gold_chunk_ids": [
+      "C00085"
+    ],
+    "gold_doc_ids": [
+      "WTA0018"
+    ],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "The Ahroun auspice is governed by the Full Moon. As a warrior-priest of the werewolf pack, the Ahroun serves as a guardian and protector, often taking on a leadership or enforcer role within the pack. They are fierce defenders of their kin and territory.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "closed_book",
+    "question_id": "Q08",
+    "question": "How did the Croatan tribe come to an end?",
+    "question_type": "factoid",
+    "reference_answer": "The entire tribe died in 1589 sacrificing itself in a ritual that drove the Eater-of-Souls back to the Deep Umbra and Malfeas.",
+    "gold_chunk_ids": [
+      "C01910"
+    ],
+    "gold_doc_ids": [
+      "WTA0244"
+    ],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "The Croatan tribe was destroyed by a combination of internal strife and external threats from other werewolf packs. They were ultimately defeated in a great battle, known as the \"War of the Lions\", which led to their downfall. The remnants of the tribe were forced to flee or go into hiding.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "closed_book",
+    "question_id": "Q09",
+    "question": "What event destroyed the Bunyip, and what animal were their Kinfolk?",
+    "question_type": "factoid",
+    "reference_answer": "European Garou wiped out the Bunyip in the War of Tears, and their animal Kinfolk were thylacines, which went extinct in the 1930s.",
+    "gold_chunk_ids": [
+      "C01308"
+    ],
+    "gold_doc_ids": [
+      "WTA0173"
+    ],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "The event that destroyed the Bunyip was the Great Storm of 1998. The Bunyip's Kinfolk are crocodiles.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "closed_book",
+    "question_id": "Q10",
+    "question": "What do the Black Spiral Dancers call their septs and their caerns?",
+    "question_type": "factoid",
+    "reference_answer": "Black Spiral Dancer septs are called Hives and the caerns where they raise their young are called Pits.",
+    "gold_chunk_ids": [
+      "C01044"
+    ],
+    "gold_doc_ids": [
+      "WTA0132"
+    ],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "The Black Spiral Dancers refer to their septs as \"Hives\" and their caerns as \"Nests\". This is a deliberate attempt to subvert the traditional Garou terminology, reflecting their corrupted and twisted nature. The use of these terms emphasizes their rejection of the natural world and their allegiance to the Wyrm.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "closed_book",
+    "question_id": "Q11",
+    "question": "How much starting Gnosis does each Garou breed receive?",
+    "question_type": "factoid",
+    "reference_answer": "Homid characters start with 1 Gnosis, metis with 3, and lupus with 5.",
+    "gold_chunk_ids": [
+      "C02914"
+    ],
+    "gold_doc_ids": [
+      "WTA0397"
+    ],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "Each Garou breed receives 5 points of starting Gnosis. This is a standard amount across all breeds in Werewolf: the Apocalypse. It represents their innate spiritual connection to the Umbra and Gaia.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "closed_book",
+    "question_id": "Q12",
+    "question": "What is a sept in Garou society?",
+    "question_type": "factoid",
+    "reference_answer": "A sept is the community of Garou who live near a caern and defend it from the Wyrm, the Weaver, and other threats.",
+    "gold_chunk_ids": [
+      "C07200"
+    ],
+    "gold_doc_ids": [
+      "WTA0932"
+    ],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "In Werewolf: the Apocalypse, a sept is a local pack of werewolves that operates within a larger tribe or nation. Septs are typically organized around a specific geographic area and may have their own distinct culture and traditions. They often serve as the basic unit of Garou society, with multiple septs making up a larger tribe.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "closed_book",
+    "question_id": "Q13",
+    "question": "What membership restriction does the Black Furies tribe apply?",
+    "question_type": "factoid",
+    "reference_answer": "The Black Furies accept only women as members, with the exception of a few male metis.",
+    "gold_chunk_ids": [
+      "C00895"
+    ],
+    "gold_doc_ids": [
+      "WTA0128"
+    ],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "The Black Furies tribe is a matriarchal tribe in Werewolf: the Apocalypse that only allows female werewolves to join, excluding males from membership. This restriction reflects their emphasis on feminine power and the divine feminine. They are one of the few tribes with this unique membership requirement.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "closed_book",
+    "question_id": "Q14",
+    "question": "Why are the Corax immune to silver?",
+    "question_type": "factoid",
+    "reference_answer": "The Corax are tied to Helios and the sun rather than Luna and the moon, so silver has no power over them. Gold affects them instead.",
+    "gold_chunk_ids": [
+      "C07476"
+    ],
+    "gold_doc_ids": [
+      "WTA0972"
+    ],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "The Corax are a tribe of werewolves in Werewolf: the Apocalypse that have a unique relationship with the spirit world, allowing them to resist the effects of silver. This is due to their connection to the earth and their ability to tap into its power. As a result, they can withstand attacks from silver-tipped weapons without suffering the usual debilitating effects.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "closed_book",
+    "question_id": "Q15",
+    "question": "What are the three heads of the Triatic Wyrm called?",
+    "question_type": "factoid",
+    "reference_answer": "They are Beast-of-War the Wyrm of Calamity, Eater-of-Souls, and the Defiler Wyrm the Wyrm of Corruption.",
+    "gold_chunk_ids": [
+      "C08868",
+      "C08869"
+    ],
+    "gold_doc_ids": [
+      "WTA1186"
+    ],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "The three heads of the Triatic Wyrm in Werewolf: the Apocalypse are known as the Devourer, the Corruptor, and the Defiler. Each head represents a different aspect of destruction and chaos. They embody the destructive forces that threaten the natural world.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "closed_book",
+    "question_id": "Q16",
+    "question": "Which Garou tribe became the Black Spiral Dancers, and what did they find that led to their corruption?",
+    "question_type": "multi_hop",
+    "reference_answer": "The White Howlers became the Black Spiral Dancers. They discovered the Great Pit, a portal into Malfeas, and descended into the Spiral Labyrinth there, where the Wyrm corrupted them.",
+    "gold_chunk_ids": [
+      "C08785",
+      "C01035"
+    ],
+    "gold_doc_ids": [
+      "WTA1170",
+      "WTA0132"
+    ],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "The Black Spiral Dancers were originally the Uktena tribe of werewolves. They discovered a hidden city deep in the Appalachian Mountains called the Black Spiral, which contained ancient and forbidden knowledge from the First Tradition. This knowledge corrupted them and led to their downfall.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "closed_book",
+    "question_id": "Q17",
+    "question": "The Delirium is explained by an era of Garou violence against humans. What was that era called, and who led the council that decided to begin it?",
+    "question_type": "multi_hop",
+    "reference_answer": "The era was the Impergium, and the council that set human culling quotas was led by the Silver Fangs.",
+    "gold_chunk_ids": [
+      "C02036",
+      "C03577"
+    ],
+    "gold_doc_ids": [
+      "WTA0267",
+      "WTA0498"
+    ],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "The era you're referring to is known as the \"Great Purification\". I don't know who specifically led the council that decided to initiate this period of Garou violence against humans.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "closed_book",
+    "question_id": "Q18",
+    "question": "Which Litany tenet do metis violate the existence of, and what unique silver weakness do they carry as a result of having no breed form?",
+    "question_type": "multi_hop",
+    "reference_answer": "They exist because their parents broke the tenet 'Garou Shall Not Mate With Garou'. Because they lack a breed form, metis take unsoakable aggravated damage from silver in any form.",
+    "gold_chunk_ids": [
+      "C04251",
+      "C07473"
+    ],
+    "gold_doc_ids": [
+      "WTA0611",
+      "WTA0972"
+    ],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "Metis (children of humans and werewolves) violate the Litanies' tenet of \"the Breed is all\". As a result of their mixed heritage, metis have a unique vulnerability to silver that is not shared by other breeds. This weakness stems from their lack of a breed form, making them more susceptible to silver's effects.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "closed_book",
+    "question_id": "Q19",
+    "question": "Two Garou tribes went extinct at the hands of very different enemies. How did the Croatan and the Bunyip each meet their end?",
+    "question_type": "multi_hop",
+    "reference_answer": "The Croatan destroyed themselves in a 1589 ritual to banish the Eater-of-Souls, while the Bunyip were exterminated by European Garou during the War of Tears.",
+    "gold_chunk_ids": [
+      "C01910",
+      "C01308"
+    ],
+    "gold_doc_ids": [
+      "WTA0244",
+      "WTA0173"
+    ],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "The Croatan tribe was wiped out by the Wyrm, a powerful force of corruption that threatened the balance of nature. The Bunyip, on the other hand, was destroyed by the Garou themselves in a brutal civil war known as the \"Bunyip's Reckoning\". This event was a dark chapter in Garou history and had significant consequences for the tribe's legacy.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "closed_book",
+    "question_id": "Q20",
+    "question": "Rage is a gift from Luna and is what makes shapeshifters vulnerable to silver. Which Fera lack Rage and are therefore unharmed by it, and why are the Corax also immune?",
+    "question_type": "multi_hop",
+    "reference_answer": "The Nuwisha have no Rage and so take no special damage from silver. The Corax are immune because they are linked to the sun rather than the moon, and gold harms them instead.",
+    "gold_chunk_ids": [
+      "C06111",
+      "C07476"
+    ],
+    "gold_doc_ids": [
+      "WTA0827",
+      "WTA0972"
+    ],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "I don't know",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "closed_book",
+    "question_id": "Q21",
+    "question": "What was the name of the fourth Garou tribe that crossed the ice into the Pure Lands alongside the Uktena, Wendigo, and Croatan?",
+    "question_type": "unanswerable",
+    "reference_answer": "I don't know",
+    "gold_chunk_ids": [],
+    "gold_doc_ids": [],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "I don't know.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "closed_book",
+    "question_id": "Q22",
+    "question": "Which totem do the Ashen Hunters tribe follow?",
+    "question_type": "unanswerable",
+    "reference_answer": "I don't know",
+    "gold_chunk_ids": [],
+    "gold_doc_ids": [],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "The Ashen Hunters tribe follows the Totem of the Stag. This is a common totem among some werewolf tribes in the game, associated with qualities like perseverance and tenacity. The Stag Totem is often linked to the hunt and tracking skills.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "closed_book",
+    "question_id": "Q23",
+    "question": "What was Lore-Speaker Gron's auspice?",
+    "question_type": "unanswerable",
+    "reference_answer": "I don't know",
+    "gold_chunk_ids": [],
+    "gold_doc_ids": [],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "I don't know.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "closed_book",
+    "question_id": "Q24",
+    "question": "How many Black Spiral Dancer Hives are active in North America during the Final Nights?",
+    "question_type": "unanswerable",
+    "reference_answer": "I don't know",
+    "gold_chunk_ids": [],
+    "gold_doc_ids": [],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "I don't know.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "closed_book",
+    "question_id": "Q25",
+    "question": "What was the birth name of the first Garou to survive dancing the Black Spiral?",
+    "question_type": "unanswerable",
+    "reference_answer": "I don't know",
+    "gold_chunk_ids": [],
+    "gold_doc_ids": [],
+    "ranked_chunk_ids": [],
+    "ranked_doc_ids": [],
+    "context_chunk_ids": [],
+    "answer": "I don't know.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q01",
+    "question": "How often do the Fianna recite the Litany in its entirety, and where do they do it?",
+    "question_type": "factoid",
+    "reference_answer": "Four times a year the Fianna gather in their tribal homelands to recite the whole Litany, which can take hours.",
+    "gold_chunk_ids": [
+      "C04249"
+    ],
+    "gold_doc_ids": [
+      "WTA0611"
+    ],
+    "ranked_chunk_ids": [
+      "C04249",
+      "C04250",
+      "C04253",
+      "C02782",
+      "C01395",
+      "C02274",
+      "C02455",
+      "C02454",
+      "C06604",
+      "C07149"
+    ],
+    "ranked_doc_ids": [
+      "WTA0611",
+      "WTA0389",
+      "WTA0178",
+      "WTA0321",
+      "WTA0341",
+      "WTA0861",
+      "WTA0927"
+    ],
+    "context_chunk_ids": [
+      "C04249",
+      "C04250",
+      "C04253",
+      "C02782",
+      "C01395"
+    ],
+    "answer": "According to [C04249], four times a year, the werewolves of the Fianna tribe gather in their tribal homelands to recite the Litany in its entirety.",
+    "cited_chunk_ids": [
+      "C04249"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q02",
+    "question": "Which group of humans is completely immune to the Delirium?",
+    "question_type": "factoid",
+    "reference_answer": "Kinfolk are entirely immune to the Delirium, unlike other humans who see a shapeshifter in its war form.",
+    "gold_chunk_ids": [
+      "C02035"
+    ],
+    "gold_doc_ids": [
+      "WTA0267"
+    ],
+    "ranked_chunk_ids": [
+      "C02035",
+      "C03430",
+      "C00325",
+      "C06674",
+      "C03457",
+      "C03448",
+      "C05348",
+      "C07355",
+      "C00762",
+      "C03779"
+    ],
+    "ranked_doc_ids": [
+      "WTA0267",
+      "WTA0482",
+      "WTA0044",
+      "WTA0867",
+      "WTA0730",
+      "WTA0957",
+      "WTA0107",
+      "WTA0542"
+    ],
+    "context_chunk_ids": [
+      "C02035",
+      "C03430",
+      "C00325",
+      "C06674",
+      "C03457"
+    ],
+    "answer": "Kinfolk [C02035]. They are entirely immune to the effects of Delirium, along with any other supernatural creatures.",
+    "cited_chunk_ids": [
+      "C02035"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q03",
+    "question": "What was the Impergium?",
+    "question_type": "factoid",
+    "reference_answer": "The Impergium was the prehistoric culling of human populations carried out by the Garou to keep humanity in check.",
+    "gold_chunk_ids": [
+      "C03576"
+    ],
+    "gold_doc_ids": [
+      "WTA0498"
+    ],
+    "ranked_chunk_ids": [
+      "C03580",
+      "C03581",
+      "C03579",
+      "C03576",
+      "C07161",
+      "C08597",
+      "C03578",
+      "C02036",
+      "C08656",
+      "C04745"
+    ],
+    "ranked_doc_ids": [
+      "WTA0498",
+      "WTA0927",
+      "WTA1152",
+      "WTA0267",
+      "WTA1161",
+      "WTA0680"
+    ],
+    "context_chunk_ids": [
+      "C03580",
+      "C03581",
+      "C03579",
+      "C03576",
+      "C07161"
+    ],
+    "answer": "The Impergium was the culling of the human population practiced by the Garou in prehistoric times [C03576]. It involved sparing some humans from being killed, and explaining the Impergium to them so that they could \"sacrifice\" troublemakers to the other Garou [C03579]. The Red Talons still call for a return to the Impergium today [C03576].",
+    "cited_chunk_ids": [
+      "C03576",
+      "C03579"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q04",
+    "question": "Why are metis born, and what two traits do all metis share?",
+    "question_type": "factoid",
+    "reference_answer": "Metis are the offspring of two Garou who broke the Litany by mating. They are born in Crinos form, are sterile, and carry an innate deformity.",
+    "gold_chunk_ids": [
+      "C04515"
+    ],
+    "gold_doc_ids": [
+      "WTA0662"
+    ],
+    "ranked_chunk_ids": [
+      "C00149",
+      "C00760",
+      "C00270",
+      "C03112",
+      "C05197",
+      "C04515",
+      "C01752",
+      "C04516",
+      "C04612",
+      "C05667"
+    ],
+    "ranked_doc_ids": [
+      "WTA0022",
+      "WTA0107",
+      "WTA0043",
+      "WTA0436",
+      "WTA0717",
+      "WTA0662",
+      "WTA0227",
+      "WTA0663",
+      "WTA0782"
+    ],
+    "context_chunk_ids": [
+      "C00149",
+      "C00760",
+      "C00270",
+      "C03112",
+      "C05197"
+    ],
+    "answer": "According to [C00149], Metis are born of two Ajaba parents. However, this passage does not provide information on why Metis are born or the traits they share.\n\n[C00760] mentions that Metis are born from the union of two Bastet, but it only provides a brief description and does not answer the question about the shared traits.\n\n[C00270] states that Ananasi do not have \"true\" metis, instead having Atahsaia when two Ananasi parents mate. However, this passage mentions Metis among the Kumo, which are born to one spider parent and another creature (not specified as a Nagah or other breed).\n\n[C05197] describes the three breeds of Nagah: Balaram (human-born), Ahi (Nagah-born), and Vasuki (snake-born). It states that Nagah treat their metis as equals, but it does not provide information on why Metis are born.\n\nI don't know",
+    "cited_chunk_ids": [
+      "C00149",
+      "C00270",
+      "C00760",
+      "C05197"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q05",
+    "question": "What material is a klaive made from, and why is that significant for the Garou who wields it?",
+    "question_type": "factoid",
+    "reference_answer": "A klaive is forged from silver, which is deadly to Garou, so klaives are rare and are often made by Kinfolk smiths.",
+    "gold_chunk_ids": [
+      "C04059"
+    ],
+    "gold_doc_ids": [
+      "WTA0576"
+    ],
+    "ranked_chunk_ids": [
+      "C04059",
+      "C04062",
+      "C08339",
+      "C04063",
+      "C03066",
+      "C03898",
+      "C02962",
+      "C04065",
+      "C06720",
+      "C08788"
+    ],
+    "ranked_doc_ids": [
+      "WTA0576",
+      "WTA1110",
+      "WTA0428",
+      "WTA0565",
+      "WTA0409",
+      "WTA0872",
+      "WTA1170"
+    ],
+    "context_chunk_ids": [
+      "C04059",
+      "C04062",
+      "C08339",
+      "C04063",
+      "C03066"
+    ],
+    "answer": "A klaive is made of silver [C04059]. This is significant because carrying a klaive reduces a Garou's effective Gnosis rating by one point [C04059].",
+    "cited_chunk_ids": [
+      "C04059"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q06",
+    "question": "How does silver damage affect metis differently from other Garou?",
+    "question_type": "factoid",
+    "reference_answer": "Metis have no breed form to shelter them, so they take unsoakable aggravated damage from silver in any form.",
+    "gold_chunk_ids": [
+      "C07473"
+    ],
+    "gold_doc_ids": [
+      "WTA0972"
+    ],
+    "ranked_chunk_ids": [
+      "C08910",
+      "C07472",
+      "C02929",
+      "C07473",
+      "C03115",
+      "C07481",
+      "C07474",
+      "C02272",
+      "C05634",
+      "C05284"
+    ],
+    "ranked_doc_ids": [
+      "WTA1187",
+      "WTA0972",
+      "WTA0401",
+      "WTA0436",
+      "WTA0973",
+      "WTA0320",
+      "WTA0775",
+      "WTA0719"
+    ],
+    "context_chunk_ids": [
+      "C08910",
+      "C07472",
+      "C02929",
+      "C07473",
+      "C03115"
+    ],
+    "answer": "According to [C07472], Metis do not have the safety of breed form to shield them from the ravages of silver, and they take unsoakable aggravated damage from silver in any form. This is different from other Garou, who can soak some or all of the damage depending on their form and gifts or fetishes.",
+    "cited_chunk_ids": [
+      "C07472"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q07",
+    "question": "Which moon phase governs the Ahroun auspice, and what role does it assign?",
+    "question_type": "factoid",
+    "reference_answer": "The Ahroun is born under the full moon and serves as the warrior and living weapon of Gaia.",
+    "gold_chunk_ids": [
+      "C00085"
+    ],
+    "gold_doc_ids": [
+      "WTA0018"
+    ],
+    "ranked_chunk_ids": [
+      "C03307",
+      "C03113",
+      "C06790",
+      "C03090",
+      "C02698",
+      "C00110",
+      "C00028",
+      "C06509",
+      "C04336",
+      "C05313"
+    ],
+    "ranked_doc_ids": [
+      "WTA0465",
+      "WTA0436",
+      "WTA0884",
+      "WTA0432",
+      "WTA0378",
+      "WTA0019",
+      "WTA0005",
+      "WTA0858",
+      "WTA0629",
+      "WTA0724"
+    ],
+    "context_chunk_ids": [
+      "C03307",
+      "C03113",
+      "C06790",
+      "C03090",
+      "C02698"
+    ],
+    "answer": "According to [C03113], the Ahroun equivalent is Uzmati, which corresponds to the Full Moon. Additionally, according to [C03307], the Fist auspice (equivalent to the Ahroun) assigns the primary fighting expert role.\n\nSo, the answer is: The Full Moon governs the Ahroun auspice, and it assigns the primary fighting expert role.",
+    "cited_chunk_ids": [
+      "C03113",
+      "C03307"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q08",
+    "question": "How did the Croatan tribe come to an end?",
+    "question_type": "factoid",
+    "reference_answer": "The entire tribe died in 1589 sacrificing itself in a ritual that drove the Eater-of-Souls back to the Deep Umbra and Malfeas.",
+    "gold_chunk_ids": [
+      "C01910"
+    ],
+    "gold_doc_ids": [
+      "WTA0244"
+    ],
+    "ranked_chunk_ids": [
+      "C08658",
+      "C01911",
+      "C01910",
+      "C08677",
+      "C01920",
+      "C01914",
+      "C01909",
+      "C01907",
+      "C08403",
+      "C01925"
+    ],
+    "ranked_doc_ids": [
+      "WTA1161",
+      "WTA0244",
+      "WTA1163",
+      "WTA0245",
+      "WTA1121"
+    ],
+    "context_chunk_ids": [
+      "C08658",
+      "C01911",
+      "C01910",
+      "C08677",
+      "C01920"
+    ],
+    "answer": "The Croatan tribe died out in 1589 after attempting to defeat the Eater-of-Souls in an epic battle [C01910]. They sacrificed themselves in a great ritual, driving it back to the Deep Umbra and Malfeas, but their sacrifice was so thorough that no new cubs were born to their kinfolk, and their tribal totem, Turtle, was plunged into deep Slumber [C01910].",
+    "cited_chunk_ids": [
+      "C01910"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q09",
+    "question": "What event destroyed the Bunyip, and what animal were their Kinfolk?",
+    "question_type": "factoid",
+    "reference_answer": "European Garou wiped out the Bunyip in the War of Tears, and their animal Kinfolk were thylacines, which went extinct in the 1930s.",
+    "gold_chunk_ids": [
+      "C01308"
+    ],
+    "gold_doc_ids": [
+      "WTA0173"
+    ],
+    "ranked_chunk_ids": [
+      "C01313",
+      "C01326",
+      "C01311",
+      "C01309",
+      "C02165",
+      "C01310",
+      "C01327",
+      "C01320",
+      "C01333",
+      "C01314"
+    ],
+    "ranked_doc_ids": [
+      "WTA0173",
+      "WTA0174",
+      "WTA0295"
+    ],
+    "context_chunk_ids": [
+      "C01313",
+      "C01326",
+      "C01311",
+      "C01309",
+      "C02165"
+    ],
+    "answer": "The event that destroyed the Bunyip was the War of Tears [C01309]. Their Kinfolk were thylacine and Aboriginal humans [C01313].",
+    "cited_chunk_ids": [
+      "C01309",
+      "C01313"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q10",
+    "question": "What do the Black Spiral Dancers call their septs and their caerns?",
+    "question_type": "factoid",
+    "reference_answer": "Black Spiral Dancer septs are called Hives and the caerns where they raise their young are called Pits.",
+    "gold_chunk_ids": [
+      "C01044"
+    ],
+    "gold_doc_ids": [
+      "WTA0132"
+    ],
+    "ranked_chunk_ids": [
+      "C01044",
+      "C08328",
+      "C07229",
+      "C05758",
+      "C07258",
+      "C07228",
+      "C08050",
+      "C02731",
+      "C04719",
+      "C07005"
+    ],
+    "ranked_doc_ids": [
+      "WTA0132",
+      "WTA1109",
+      "WTA0938",
+      "WTA0792",
+      "WTA0944",
+      "WTA1054",
+      "WTA0382",
+      "WTA0677",
+      "WTA0903"
+    ],
+    "context_chunk_ids": [
+      "C01044",
+      "C08328",
+      "C07229",
+      "C05758",
+      "C07258"
+    ],
+    "answer": "According to [C01044], Black Spiral Dancers call their septs \"Hives\". According to [C05758] and [C01044], a Pit, which is a desecrated Caern occupied by a pack of Black Spiral Dancers, is also called a \"hive\" or more specifically, a \"Trinity Hive\" as mentioned in [C08328].",
+    "cited_chunk_ids": [
+      "C01044",
+      "C05758",
+      "C08328"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q11",
+    "question": "How much starting Gnosis does each Garou breed receive?",
+    "question_type": "factoid",
+    "reference_answer": "Homid characters start with 1 Gnosis, metis with 3, and lupus with 5.",
+    "gold_chunk_ids": [
+      "C02914"
+    ],
+    "gold_doc_ids": [
+      "WTA0397"
+    ],
+    "ranked_chunk_ids": [
+      "C02914",
+      "C03419",
+      "C06112",
+      "C00149",
+      "C04122",
+      "C04902",
+      "C00165",
+      "C03829",
+      "C03244",
+      "C06458"
+    ],
+    "ranked_doc_ids": [
+      "WTA0397",
+      "WTA0481",
+      "WTA0827",
+      "WTA0022",
+      "WTA0588",
+      "WTA0687",
+      "WTA0023",
+      "WTA0555",
+      "WTA0451",
+      "WTA0856"
+    ],
+    "context_chunk_ids": [
+      "C02914",
+      "C03419",
+      "C06112",
+      "C00149",
+      "C04122"
+    ],
+    "answer": "According to [C03419], here are the starting Gnosis values for each breed:\n\n* Corax: 6\n* Gurahl: 4\n* Mokolé: 2\n* Nuwisha: same as Homid-born Garou (no specific value given)\n* Rokea: same as Homid-born Garou (no specific value given)\n\nNote that the passage does not provide a comprehensive list of all breeds, so it's possible that other breeds have different starting Gnosis values.",
+    "cited_chunk_ids": [
+      "C03419"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q12",
+    "question": "What is a sept in Garou society?",
+    "question_type": "factoid",
+    "reference_answer": "A sept is the community of Garou who live near a caern and defend it from the Wyrm, the Weaver, and other threats.",
+    "gold_chunk_ids": [
+      "C07200"
+    ],
+    "gold_doc_ids": [
+      "WTA0932"
+    ],
+    "ranked_chunk_ids": [
+      "C02173",
+      "C05367",
+      "C05681",
+      "C01225",
+      "C08662",
+      "C07141",
+      "C04115",
+      "C08165",
+      "C01447",
+      "C01445"
+    ],
+    "ranked_doc_ids": [
+      "WTA0298",
+      "WTA0735",
+      "WTA0785",
+      "WTA0155",
+      "WTA1161",
+      "WTA0927",
+      "WTA0587",
+      "WTA1081",
+      "WTA0184"
+    ],
+    "context_chunk_ids": [
+      "C02173",
+      "C05367",
+      "C05681",
+      "C01225",
+      "C08662"
+    ],
+    "answer": "A sept is a group or community within the Garou tribe [C02173]. It appears to be a significant social unit, as Peter Lawrence is described as the leading spokesperson for his sept in non-combat-related activities [C05681]. The sept also seems to have its own internal structure and relationships with other septs, such as the Sept of Jupiter and the Sept of the Wind Catchers [C05681].",
+    "cited_chunk_ids": [
+      "C02173",
+      "C05681"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q13",
+    "question": "What membership restriction does the Black Furies tribe apply?",
+    "question_type": "factoid",
+    "reference_answer": "The Black Furies accept only women as members, with the exception of a few male metis.",
+    "gold_chunk_ids": [
+      "C00895"
+    ],
+    "gold_doc_ids": [
+      "WTA0128"
+    ],
+    "ranked_chunk_ids": [
+      "C05956",
+      "C00898",
+      "C00895",
+      "C08141",
+      "C00908",
+      "C00899",
+      "C04624",
+      "C00911",
+      "C00909",
+      "C00900"
+    ],
+    "ranked_doc_ids": [
+      "WTA0811",
+      "WTA0128",
+      "WTA1074",
+      "WTA0665"
+    ],
+    "context_chunk_ids": [
+      "C05956",
+      "C00898",
+      "C00895",
+      "C08141",
+      "C00908"
+    ],
+    "answer": "The Black Furies only accept women as members (save a few male metis) [C00895]. They also have a tradition of ceremonially sacrificing all male cubs in the distant past, but now give them to other tribes instead [C00908].",
+    "cited_chunk_ids": [
+      "C00895",
+      "C00908"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q14",
+    "question": "Why are the Corax immune to silver?",
+    "question_type": "factoid",
+    "reference_answer": "The Corax are tied to Helios and the sun rather than Luna and the moon, so silver has no power over them. Gold affects them instead.",
+    "gold_chunk_ids": [
+      "C07476"
+    ],
+    "gold_doc_ids": [
+      "WTA0972"
+    ],
+    "ranked_chunk_ids": [
+      "C07476",
+      "C01756",
+      "C08292",
+      "C08290",
+      "C02929",
+      "C08291",
+      "C07555",
+      "C07536",
+      "C01781",
+      "C01825"
+    ],
+    "ranked_doc_ids": [
+      "WTA0972",
+      "WTA0227",
+      "WTA1103",
+      "WTA0401",
+      "WTA0974",
+      "WTA0973",
+      "WTA0228"
+    ],
+    "context_chunk_ids": [
+      "C07476",
+      "C01756",
+      "C08292",
+      "C08290",
+      "C02929"
+    ],
+    "answer": "The Corax are linked to the Sun, not the Moon [C07476]. This is why they are completely immune to the effects of silver.",
+    "cited_chunk_ids": [
+      "C07476"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q15",
+    "question": "What are the three heads of the Triatic Wyrm called?",
+    "question_type": "factoid",
+    "reference_answer": "They are Beast-of-War the Wyrm of Calamity, Eater-of-Souls, and the Defiler Wyrm the Wyrm of Corruption.",
+    "gold_chunk_ids": [
+      "C08868",
+      "C08869"
+    ],
+    "gold_doc_ids": [
+      "WTA1186"
+    ],
+    "ranked_chunk_ids": [
+      "C08868",
+      "C08304",
+      "C08305",
+      "C01954",
+      "C01909",
+      "C08869",
+      "C04649",
+      "C08870",
+      "C08486",
+      "C04120"
+    ],
+    "ranked_doc_ids": [
+      "WTA1186",
+      "WTA1106",
+      "WTA0251",
+      "WTA0244",
+      "WTA0669",
+      "WTA1127",
+      "WTA0588"
+    ],
+    "context_chunk_ids": [
+      "C08868",
+      "C08304",
+      "C08305",
+      "C01954",
+      "C01909"
+    ],
+    "answer": "The three heads of the Triatic Wyrm are called Beast-of-War [C08868], Eater-of-Souls [C08304, C08305], and Defiler Wyrm [C08305].",
+    "cited_chunk_ids": [
+      "C08305",
+      "C08868"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q16",
+    "question": "Which Garou tribe became the Black Spiral Dancers, and what did they find that led to their corruption?",
+    "question_type": "multi_hop",
+    "reference_answer": "The White Howlers became the Black Spiral Dancers. They discovered the Great Pit, a portal into Malfeas, and descended into the Spiral Labyrinth there, where the Wyrm corrupted them.",
+    "gold_chunk_ids": [
+      "C08785",
+      "C01035"
+    ],
+    "gold_doc_ids": [
+      "WTA1170",
+      "WTA0132"
+    ],
+    "ranked_chunk_ids": [
+      "C01038",
+      "C01046",
+      "C01055",
+      "C01048",
+      "C02392",
+      "C01039",
+      "C06934",
+      "C00960",
+      "C01040",
+      "C00977"
+    ],
+    "ranked_doc_ids": [
+      "WTA0132",
+      "WTA0339",
+      "WTA0888",
+      "WTA0130"
+    ],
+    "context_chunk_ids": [
+      "C01038",
+      "C01046",
+      "C01055",
+      "C01048",
+      "C02392"
+    ],
+    "answer": "The White Howlers, a Garou tribe of Pictish descent [C02392], became the Black Spiral Dancers. They marched down the Spiral Labyrinth in an effort to take the fight to the Wyrm and were corrupted by its evil as they left Gaia behind [C02392].",
+    "cited_chunk_ids": [
+      "C02392"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q17",
+    "question": "The Delirium is explained by an era of Garou violence against humans. What was that era called, and who led the council that decided to begin it?",
+    "question_type": "multi_hop",
+    "reference_answer": "The era was the Impergium, and the council that set human culling quotas was led by the Silver Fangs.",
+    "gold_chunk_ids": [
+      "C02036",
+      "C03577"
+    ],
+    "gold_doc_ids": [
+      "WTA0267",
+      "WTA0498"
+    ],
+    "ranked_chunk_ids": [
+      "C00516",
+      "C01957",
+      "C02723",
+      "C01958",
+      "C07544",
+      "C02608",
+      "C02898",
+      "C04341",
+      "C08322",
+      "C07806"
+    ],
+    "ranked_doc_ids": [
+      "WTA0068",
+      "WTA0251",
+      "WTA0379",
+      "WTA0974",
+      "WTA0369",
+      "WTA0396",
+      "WTA0629",
+      "WTA1108",
+      "WTA1020"
+    ],
+    "context_chunk_ids": [
+      "C00516",
+      "C01957",
+      "C02723",
+      "C01958",
+      "C07544"
+    ],
+    "answer": "I don't know",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q18",
+    "question": "Which Litany tenet do metis violate the existence of, and what unique silver weakness do they carry as a result of having no breed form?",
+    "question_type": "multi_hop",
+    "reference_answer": "They exist because their parents broke the tenet 'Garou Shall Not Mate With Garou'. Because they lack a breed form, metis take unsoakable aggravated damage from silver in any form.",
+    "gold_chunk_ids": [
+      "C04251",
+      "C07473"
+    ],
+    "gold_doc_ids": [
+      "WTA0611",
+      "WTA0972"
+    ],
+    "ranked_chunk_ids": [
+      "C04252",
+      "C04251",
+      "C04515",
+      "C04253",
+      "C07473",
+      "C04518",
+      "C04517",
+      "C08928",
+      "C06181",
+      "C05668"
+    ],
+    "ranked_doc_ids": [
+      "WTA0611",
+      "WTA0662",
+      "WTA0972",
+      "WTA1188",
+      "WTA0836",
+      "WTA0782"
+    ],
+    "context_chunk_ids": [
+      "C04252",
+      "C04251",
+      "C04515",
+      "C04253",
+      "C07473"
+    ],
+    "answer": "Metis violate the tenet \"Garou Shall Not Mate With Garou\" [C04251]. As a result of not having a breed form, Metis take unsoakable aggravated damage from silver in any form [C07473].",
+    "cited_chunk_ids": [
+      "C04251",
+      "C07473"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q19",
+    "question": "Two Garou tribes went extinct at the hands of very different enemies. How did the Croatan and the Bunyip each meet their end?",
+    "question_type": "multi_hop",
+    "reference_answer": "The Croatan destroyed themselves in a 1589 ritual to banish the Eater-of-Souls, while the Bunyip were exterminated by European Garou during the War of Tears.",
+    "gold_chunk_ids": [
+      "C01910",
+      "C01308"
+    ],
+    "gold_doc_ids": [
+      "WTA0244",
+      "WTA0173"
+    ],
+    "ranked_chunk_ids": [
+      "C01310",
+      "C01309",
+      "C08929",
+      "C08317",
+      "C01308",
+      "C01925",
+      "C08658",
+      "C02166",
+      "C03867",
+      "C01313"
+    ],
+    "ranked_doc_ids": [
+      "WTA0173",
+      "WTA1188",
+      "WTA1107",
+      "WTA0245",
+      "WTA1161",
+      "WTA0295",
+      "WTA0559"
+    ],
+    "context_chunk_ids": [
+      "C01310",
+      "C01309",
+      "C08929",
+      "C08317",
+      "C01308"
+    ],
+    "answer": "The Croatan met their end due to emanations [C08317]. The Bunyip, on the other hand, were wiped out in what became known as the War of Tears, fought against European Garou who sought to control the caerns of the Outback [C01308].",
+    "cited_chunk_ids": [
+      "C01308",
+      "C08317"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q20",
+    "question": "Rage is a gift from Luna and is what makes shapeshifters vulnerable to silver. Which Fera lack Rage and are therefore unharmed by it, and why are the Corax also immune?",
+    "question_type": "multi_hop",
+    "reference_answer": "The Nuwisha have no Rage and so take no special damage from silver. The Corax are immune because they are linked to the sun rather than the moon, and gold harms them instead.",
+    "gold_chunk_ids": [
+      "C06111",
+      "C07476"
+    ],
+    "gold_doc_ids": [
+      "WTA0827",
+      "WTA0972"
+    ],
+    "ranked_chunk_ids": [
+      "C04765",
+      "C02930",
+      "C02146",
+      "C08603",
+      "C08341",
+      "C03298",
+      "C04339",
+      "C06111",
+      "C07482",
+      "C04340"
+    ],
+    "ranked_doc_ids": [
+      "WTA0685",
+      "WTA0401",
+      "WTA0292",
+      "WTA1152",
+      "WTA1110",
+      "WTA0463",
+      "WTA0629",
+      "WTA0827",
+      "WTA0973"
+    ],
+    "context_chunk_ids": [
+      "C04765",
+      "C02930",
+      "C02146",
+      "C08603",
+      "C08341"
+    ],
+    "answer": "According to [C04765], Mokolé born at night have maintained a tie between the Dragon Breed and Luna; however, this is not explicitly stated for other Fera. The passage does mention that Rage is called \"Luna's Gift\" in relation to the Mokolé.\n\nThe Corax are tied to the Sun, like the Mokolé [C04765]. This suggests that they may be vulnerable to gold, but it doesn't explain why they would also be immune to silver.",
+    "cited_chunk_ids": [
+      "C04765"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q21",
+    "question": "What was the name of the fourth Garou tribe that crossed the ice into the Pure Lands alongside the Uktena, Wendigo, and Croatan?",
+    "question_type": "unanswerable",
+    "reference_answer": "I don't know",
+    "gold_chunk_ids": [],
+    "gold_doc_ids": [],
+    "ranked_chunk_ids": [
+      "C01912",
+      "C01908",
+      "C08399",
+      "C08655",
+      "C08658",
+      "C05014",
+      "C07822",
+      "C01914",
+      "C08736",
+      "C08403"
+    ],
+    "ranked_doc_ids": [
+      "WTA0244",
+      "WTA1121",
+      "WTA1161",
+      "WTA0708",
+      "WTA1020",
+      "WTA1165"
+    ],
+    "context_chunk_ids": [
+      "C01912",
+      "C01908",
+      "C08399",
+      "C08655",
+      "C08658"
+    ],
+    "answer": "I don't know",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q22",
+    "question": "Which totem do the Ashen Hunters tribe follow?",
+    "question_type": "unanswerable",
+    "reference_answer": "I don't know",
+    "gold_chunk_ids": [],
+    "gold_doc_ids": [],
+    "ranked_chunk_ids": [
+      "C02139",
+      "C00143",
+      "C00230",
+      "C05403",
+      "C01860",
+      "C02759",
+      "C00969",
+      "C03888",
+      "C02757",
+      "C07707"
+    ],
+    "ranked_doc_ids": [
+      "WTA0291",
+      "WTA0021",
+      "WTA0034",
+      "WTA0740",
+      "WTA0235",
+      "WTA0387",
+      "WTA0130",
+      "WTA0563",
+      "WTA1008"
+    ],
+    "context_chunk_ids": [
+      "C02139",
+      "C00143",
+      "C00230",
+      "C05403",
+      "C01860"
+    ],
+    "answer": "I don't know",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q23",
+    "question": "What was Lore-Speaker Gron's auspice?",
+    "question_type": "unanswerable",
+    "reference_answer": "I don't know",
+    "gold_chunk_ids": [],
+    "gold_doc_ids": [],
+    "ranked_chunk_ids": [
+      "C03580",
+      "C00158",
+      "C02104",
+      "C02623",
+      "C04621",
+      "C02721",
+      "C07231",
+      "C02105",
+      "C03307",
+      "C05780"
+    ],
+    "ranked_doc_ids": [
+      "WTA0498",
+      "WTA0022",
+      "WTA0283",
+      "WTA0372",
+      "WTA0664",
+      "WTA0379",
+      "WTA0939",
+      "WTA0465",
+      "WTA0794"
+    ],
+    "context_chunk_ids": [
+      "C03580",
+      "C00158",
+      "C02104",
+      "C02623",
+      "C04621"
+    ],
+    "answer": "I don't know. The passages do not mention Lore-Speaker Gron's Auspice. However, [C00158] mentions that the Mokolé claim Lore-Speaker Gron was a hyena-shaman, but this does not provide information about his Auspice.",
+    "cited_chunk_ids": [
+      "C00158"
+    ],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q24",
+    "question": "How many Black Spiral Dancer Hives are active in North America during the Final Nights?",
+    "question_type": "unanswerable",
+    "reference_answer": "I don't know",
+    "gold_chunk_ids": [],
+    "gold_doc_ids": [],
+    "ranked_chunk_ids": [
+      "C03540",
+      "C00763",
+      "C01044",
+      "C06619",
+      "C06617",
+      "C08328",
+      "C03302",
+      "C01042",
+      "C03301",
+      "C08894"
+    ],
+    "ranked_doc_ids": [
+      "WTA0490",
+      "WTA0107",
+      "WTA0132",
+      "WTA0861",
+      "WTA1109",
+      "WTA0464",
+      "WTA1187"
+    ],
+    "context_chunk_ids": [
+      "C03540",
+      "C00763",
+      "C01044",
+      "C06619",
+      "C06617"
+    ],
+    "answer": "I don't know",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "bm25",
+    "question_id": "Q25",
+    "question": "What was the birth name of the first Garou to survive dancing the Black Spiral?",
+    "question_type": "unanswerable",
+    "reference_answer": "I don't know",
+    "gold_chunk_ids": [],
+    "gold_doc_ids": [],
+    "ranked_chunk_ids": [
+      "C01059",
+      "C01048",
+      "C01064",
+      "C00651",
+      "C00979",
+      "C02177",
+      "C04304",
+      "C00993",
+      "C08279",
+      "C01057"
+    ],
+    "ranked_doc_ids": [
+      "WTA0133",
+      "WTA0132",
+      "WTA0089",
+      "WTA0130",
+      "WTA0299",
+      "WTA0620",
+      "WTA1100"
+    ],
+    "context_chunk_ids": [
+      "C01059",
+      "C01048",
+      "C01064",
+      "C00651",
+      "C00979"
+    ],
+    "answer": "I don't know",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "dense",
+    "question_id": "Q01",
+    "question": "How often do the Fianna recite the Litany in its entirety, and where do they do it?",
+    "question_type": "factoid",
+    "reference_answer": "Four times a year the Fianna gather in their tribal homelands to recite the whole Litany, which can take hours.",
+    "gold_chunk_ids": [
+      "C04249"
+    ],
+    "gold_doc_ids": [
+      "WTA0611"
+    ],
+    "ranked_chunk_ids": [
+      "C04249",
+      "C04253",
+      "C07147",
+      "C02397",
+      "C02405",
+      "C02389",
+      "C02401",
+      "C07148",
+      "C04250",
+      "C07149"
+    ],
+    "ranked_doc_ids": [
+      "WTA0611",
+      "WTA0927",
+      "WTA0339"
+    ],
+    "context_chunk_ids": [
+      "C04249",
+      "C04253",
+      "C07147",
+      "C02397",
+      "C02405"
+    ],
+    "answer": "According to [C04249], four times a year, the werewolves of the Fianna tribe gather in their tribal homelands to recite the Litany in its entirety.",
+    "cited_chunk_ids": [
+      "C04249"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "dense",
+    "question_id": "Q02",
+    "question": "Which group of humans is completely immune to the Delirium?",
+    "question_type": "factoid",
+    "reference_answer": "Kinfolk are entirely immune to the Delirium, unlike other humans who see a shapeshifter in its war form.",
+    "gold_chunk_ids": [
+      "C02035"
+    ],
+    "gold_doc_ids": [
+      "WTA0267"
+    ],
+    "ranked_chunk_ids": [
+      "C02039",
+      "C02035",
+      "C02037",
+      "C02038",
+      "C02036",
+      "C07959",
+      "C02040",
+      "C06307",
+      "C03581",
+      "C03430"
+    ],
+    "ranked_doc_ids": [
+      "WTA0267",
+      "WTA1050",
+      "WTA0838",
+      "WTA0498",
+      "WTA0482"
+    ],
+    "context_chunk_ids": [
+      "C02039",
+      "C02035",
+      "C02037",
+      "C02038",
+      "C02036"
+    ],
+    "answer": "Kinfolk [C02035]. They are entirely immune to the effects of Delirium, along with other supernatural creatures.",
+    "cited_chunk_ids": [
+      "C02035"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "dense",
+    "question_id": "Q03",
+    "question": "What was the Impergium?",
+    "question_type": "factoid",
+    "reference_answer": "The Impergium was the prehistoric culling of human populations carried out by the Garou to keep humanity in check.",
+    "gold_chunk_ids": [
+      "C03576"
+    ],
+    "gold_doc_ids": [
+      "WTA0498"
+    ],
+    "ranked_chunk_ids": [
+      "C03576",
+      "C03581",
+      "C03580",
+      "C03577",
+      "C03579",
+      "C03578",
+      "C07334",
+      "C00584",
+      "C08785",
+      "C03572"
+    ],
+    "ranked_doc_ids": [
+      "WTA0498",
+      "WTA0956",
+      "WTA0081",
+      "WTA1170",
+      "WTA0497"
+    ],
+    "context_chunk_ids": [
+      "C03576",
+      "C03581",
+      "C03580",
+      "C03577",
+      "C03579"
+    ],
+    "answer": "The Impergium was a system where quotas were set on human populations and if they grew too large, the Garou would cull them [C03577]. This kept the human population steady for millennia. The Garou believed that by keeping humans in check, they could serve Gaia [C03577].",
+    "cited_chunk_ids": [
+      "C03577"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "dense",
+    "question_id": "Q04",
+    "question": "Why are metis born, and what two traits do all metis share?",
+    "question_type": "factoid",
+    "reference_answer": "Metis are the offspring of two Garou who broke the Litany by mating. They are born in Crinos form, are sterile, and carry an innate deformity.",
+    "gold_chunk_ids": [
+      "C04515"
+    ],
+    "gold_doc_ids": [
+      "WTA0662"
+    ],
+    "ranked_chunk_ids": [
+      "C04515",
+      "C04516",
+      "C04518",
+      "C04517",
+      "C04523",
+      "C04519",
+      "C04521",
+      "C04554",
+      "C04522",
+      "C04555"
+    ],
+    "ranked_doc_ids": [
+      "WTA0662",
+      "WTA0663"
+    ],
+    "context_chunk_ids": [
+      "C04515",
+      "C04516",
+      "C04518",
+      "C04517",
+      "C04523"
+    ],
+    "answer": "According to [C04515], metis are born as the result of two Garou who broke the Litany for love or lust. All metis share the following two traits:\n\n* They are born in the Crinos form, which is their natural form [C04515].\n* They are all born with an innate flaw, such as a physical deformity, mental disability, intellectual impairment, or spiritual disability [C04516].",
+    "cited_chunk_ids": [
+      "C04515",
+      "C04516"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "dense",
+    "question_id": "Q05",
+    "question": "What material is a klaive made from, and why is that significant for the Garou who wields it?",
+    "question_type": "factoid",
+    "reference_answer": "A klaive is forged from silver, which is deadly to Garou, so klaives are rare and are often made by Kinfolk smiths.",
+    "gold_chunk_ids": [
+      "C04059"
+    ],
+    "gold_doc_ids": [
+      "WTA0576"
+    ],
+    "ranked_chunk_ids": [
+      "C04059",
+      "C04066",
+      "C04062",
+      "C04063",
+      "C02959",
+      "C04065",
+      "C04064",
+      "C02962",
+      "C04061",
+      "C04060"
+    ],
+    "ranked_doc_ids": [
+      "WTA0576",
+      "WTA0409"
+    ],
+    "context_chunk_ids": [
+      "C04059",
+      "C04066",
+      "C04062",
+      "C04063",
+      "C02959"
+    ],
+    "answer": "A klaive is made of silver [C04059]. This is significant because carrying a klaive reduces the effective Gnosis rating of the Garou by one point [C04062], and in some cases, also inflicts aggravated damage on the wielder themselves [C04066].",
+    "cited_chunk_ids": [
+      "C04059",
+      "C04062",
+      "C04066"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "dense",
+    "question_id": "Q06",
+    "question": "How does silver damage affect metis differently from other Garou?",
+    "question_type": "factoid",
+    "reference_answer": "Metis have no breed form to shelter them, so they take unsoakable aggravated damage from silver in any form.",
+    "gold_chunk_ids": [
+      "C07473"
+    ],
+    "gold_doc_ids": [
+      "WTA0972"
+    ],
+    "ranked_chunk_ids": [
+      "C07473",
+      "C07472",
+      "C07474",
+      "C07478",
+      "C04519",
+      "C07482",
+      "C02929",
+      "C04574",
+      "C04518",
+      "C07481"
+    ],
+    "ranked_doc_ids": [
+      "WTA0972",
+      "WTA0973",
+      "WTA0662",
+      "WTA0401",
+      "WTA0663"
+    ],
+    "context_chunk_ids": [
+      "C07473",
+      "C07472",
+      "C07474",
+      "C07478",
+      "C04519"
+    ],
+    "answer": "According to [C07473], Metis do not have safety of a breed form to shield them from the ravages of silver. They take unsoakable aggravated damage from silver in any form. \n\nThis is different from homids and lupus, who can soak silver damage as normal if they are in their breed form.",
+    "cited_chunk_ids": [
+      "C07473"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "dense",
+    "question_id": "Q07",
+    "question": "Which moon phase governs the Ahroun auspice, and what role does it assign?",
+    "question_type": "factoid",
+    "reference_answer": "The Ahroun is born under the full moon and serves as the warrior and living weapon of Gaia.",
+    "gold_chunk_ids": [
+      "C00085"
+    ],
+    "gold_doc_ids": [
+      "WTA0018"
+    ],
+    "ranked_chunk_ids": [
+      "C00085",
+      "C04338",
+      "C00087",
+      "C00110",
+      "C04336",
+      "C03113",
+      "C02714",
+      "C02706",
+      "C02621",
+      "C02704"
+    ],
+    "ranked_doc_ids": [
+      "WTA0018",
+      "WTA0629",
+      "WTA0019",
+      "WTA0436",
+      "WTA0378",
+      "WTA0372"
+    ],
+    "context_chunk_ids": [
+      "C00085",
+      "C04338",
+      "C00087",
+      "C00110",
+      "C04336"
+    ],
+    "answer": "According to [C04338], Luna's ever-shifting face determines the Auspice of a werewolf when it is born. During the full moon, Luna assumes the visage of Diana the Huntress, which governs the Ahroun auspice. As such, the full moon assigns the role of a warrior and champion to the Ahroun.",
+    "cited_chunk_ids": [
+      "C04338"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "dense",
+    "question_id": "Q08",
+    "question": "How did the Croatan tribe come to an end?",
+    "question_type": "factoid",
+    "reference_answer": "The entire tribe died in 1589 sacrificing itself in a ritual that drove the Eater-of-Souls back to the Deep Umbra and Malfeas.",
+    "gold_chunk_ids": [
+      "C01910"
+    ],
+    "gold_doc_ids": [
+      "WTA0244"
+    ],
+    "ranked_chunk_ids": [
+      "C01907",
+      "C01913",
+      "C01910",
+      "C01909",
+      "C01908",
+      "C01916",
+      "C01912",
+      "C01911",
+      "C01914",
+      "C08658"
+    ],
+    "ranked_doc_ids": [
+      "WTA0244",
+      "WTA1161"
+    ],
+    "context_chunk_ids": [
+      "C01907",
+      "C01913",
+      "C01910",
+      "C01909",
+      "C01908"
+    ],
+    "answer": "The Croatan tribe came to an end when they sacrificed their entire tribe in a great ritual in 1589, attempting to defeat the Eater-of-Souls after it managed to manifest in the physical world [C01910]. This sacrifice was so thorough that no new cubs were born to their kinfolk, and their tribal totem, Turtle, was plunged into deep Slumber and has not awoken for centuries. The tribe was totally annihilated both physically and spiritually [C01910].",
+    "cited_chunk_ids": [
+      "C01910"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "dense",
+    "question_id": "Q09",
+    "question": "What event destroyed the Bunyip, and what animal were their Kinfolk?",
+    "question_type": "factoid",
+    "reference_answer": "European Garou wiped out the Bunyip in the War of Tears, and their animal Kinfolk were thylacines, which went extinct in the 1930s.",
+    "gold_chunk_ids": [
+      "C01308"
+    ],
+    "gold_doc_ids": [
+      "WTA0173"
+    ],
+    "ranked_chunk_ids": [
+      "C01307",
+      "C01311",
+      "C01316",
+      "C01309",
+      "C01310",
+      "C01313",
+      "C01308",
+      "C01312",
+      "C01314",
+      "C01317"
+    ],
+    "ranked_doc_ids": [
+      "WTA0173"
+    ],
+    "context_chunk_ids": [
+      "C01307",
+      "C01311",
+      "C01316",
+      "C01309",
+      "C01310"
+    ],
+    "answer": "The event that destroyed the Bunyip was the decline of their population due to various factors, including the thylacine's near-extinction at the hands of Australia's Ananasi and Aborigines [C01307]. The Bunyip's Kinfolk were the thylacine [C01307].",
+    "cited_chunk_ids": [
+      "C01307"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "dense",
+    "question_id": "Q10",
+    "question": "What do the Black Spiral Dancers call their septs and their caerns?",
+    "question_type": "factoid",
+    "reference_answer": "Black Spiral Dancer septs are called Hives and the caerns where they raise their young are called Pits.",
+    "gold_chunk_ids": [
+      "C01044"
+    ],
+    "gold_doc_ids": [
+      "WTA0132"
+    ],
+    "ranked_chunk_ids": [
+      "C01044",
+      "C01054",
+      "C01055",
+      "C01040",
+      "C01038",
+      "C01046",
+      "C01052",
+      "C01045",
+      "C01047",
+      "C01019"
+    ],
+    "ranked_doc_ids": [
+      "WTA0132",
+      "WTA0130"
+    ],
+    "context_chunk_ids": [
+      "C01044",
+      "C01054",
+      "C01055",
+      "C01040",
+      "C01038"
+    ],
+    "answer": "According to [C01044], the Black Spiral Dancers call their septs \"Hives\" and their caerns where they raise their young \"Pits\".",
+    "cited_chunk_ids": [
+      "C01044"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "dense",
+    "question_id": "Q11",
+    "question": "How much starting Gnosis does each Garou breed receive?",
+    "question_type": "factoid",
+    "reference_answer": "Homid characters start with 1 Gnosis, metis with 3, and lupus with 5.",
+    "gold_chunk_ids": [
+      "C02914"
+    ],
+    "gold_doc_ids": [
+      "WTA0397"
+    ],
+    "ranked_chunk_ids": [
+      "C06338",
+      "C03423",
+      "C08425",
+      "C04361",
+      "C08424",
+      "C07091",
+      "C07299",
+      "C01650",
+      "C03419",
+      "C02791"
+    ],
+    "ranked_doc_ids": [
+      "WTA0845",
+      "WTA0482",
+      "WTA1123",
+      "WTA0634",
+      "WTA0915",
+      "WTA0955",
+      "WTA0211",
+      "WTA0481",
+      "WTA0390"
+    ],
+    "context_chunk_ids": [
+      "C06338",
+      "C03423",
+      "C08425",
+      "C04361",
+      "C08424"
+    ],
+    "answer": "I don't know. The provided context passages do not mention the amount of starting Gnosis for each Garou breed.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "dense",
+    "question_id": "Q12",
+    "question": "What is a sept in Garou society?",
+    "question_type": "factoid",
+    "reference_answer": "A sept is the community of Garou who live near a caern and defend it from the Wyrm, the Weaver, and other threats.",
+    "gold_chunk_ids": [
+      "C07200"
+    ],
+    "gold_doc_ids": [
+      "WTA0932"
+    ],
+    "ranked_chunk_ids": [
+      "C07201",
+      "C07200",
+      "C07247",
+      "C07245",
+      "C05435",
+      "C01642",
+      "C02730",
+      "C02405",
+      "C07246",
+      "C07231"
+    ],
+    "ranked_doc_ids": [
+      "WTA0932",
+      "WTA0941",
+      "WTA0746",
+      "WTA0210",
+      "WTA0382",
+      "WTA0339",
+      "WTA0939"
+    ],
+    "context_chunk_ids": [
+      "C07201",
+      "C07200",
+      "C07247",
+      "C07245",
+      "C05435"
+    ],
+    "answer": "A group of Garou who live near and tend an individual caern [C07200]. The community of werewolves defend the caern from various threats and incursions.",
+    "cited_chunk_ids": [
+      "C07200"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "dense",
+    "question_id": "Q13",
+    "question": "What membership restriction does the Black Furies tribe apply?",
+    "question_type": "factoid",
+    "reference_answer": "The Black Furies accept only women as members, with the exception of a few male metis.",
+    "gold_chunk_ids": [
+      "C00895"
+    ],
+    "gold_doc_ids": [
+      "WTA0128"
+    ],
+    "ranked_chunk_ids": [
+      "C00908",
+      "C00913",
+      "C00909",
+      "C00895",
+      "C00901",
+      "C00910",
+      "C00900",
+      "C08320",
+      "C00903",
+      "C00912"
+    ],
+    "ranked_doc_ids": [
+      "WTA0128",
+      "WTA1108"
+    ],
+    "context_chunk_ids": [
+      "C00908",
+      "C00913",
+      "C00909",
+      "C00895",
+      "C00901"
+    ],
+    "answer": "The Black Furies only accept women as members (save a few male metis) [C00895]. However, in 5th Edition, they now accept men and assigned-male-at-birth members as equals [C00913].",
+    "cited_chunk_ids": [
+      "C00895",
+      "C00913"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "dense",
+    "question_id": "Q14",
+    "question": "Why are the Corax immune to silver?",
+    "question_type": "factoid",
+    "reference_answer": "The Corax are tied to Helios and the sun rather than Luna and the moon, so silver has no power over them. Gold affects them instead.",
+    "gold_chunk_ids": [
+      "C07476"
+    ],
+    "gold_doc_ids": [
+      "WTA0972"
+    ],
+    "ranked_chunk_ids": [
+      "C07476",
+      "C02929",
+      "C01758",
+      "C01756",
+      "C07473",
+      "C07474",
+      "C07472",
+      "C08290",
+      "C08292",
+      "C01808"
+    ],
+    "ranked_doc_ids": [
+      "WTA0972",
+      "WTA0401",
+      "WTA0227",
+      "WTA1103",
+      "WTA0228"
+    ],
+    "context_chunk_ids": [
+      "C07476",
+      "C02929",
+      "C01758",
+      "C01756",
+      "C07473"
+    ],
+    "answer": "Because they are linked to the Sun, and not the Moon [C07476]. This is why silver has no hold on Raven's children, and they can proudly wear silver jewelry.",
+    "cited_chunk_ids": [
+      "C07476"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "dense",
+    "question_id": "Q15",
+    "question": "What are the three heads of the Triatic Wyrm called?",
+    "question_type": "factoid",
+    "reference_answer": "They are Beast-of-War the Wyrm of Calamity, Eater-of-Souls, and the Defiler Wyrm the Wyrm of Corruption.",
+    "gold_chunk_ids": [
+      "C08868",
+      "C08869"
+    ],
+    "gold_doc_ids": [
+      "WTA1186"
+    ],
+    "ranked_chunk_ids": [
+      "C08868",
+      "C08304",
+      "C08305",
+      "C08303",
+      "C05862",
+      "C08866",
+      "C08851",
+      "C08301",
+      "C08869",
+      "C00276"
+    ],
+    "ranked_doc_ids": [
+      "WTA1186",
+      "WTA1106",
+      "WTA1105",
+      "WTA0800",
+      "WTA1183",
+      "WTA0043"
+    ],
+    "context_chunk_ids": [
+      "C08868",
+      "C08304",
+      "C08305",
+      "C08303",
+      "C05862"
+    ],
+    "answer": "The three heads of the Triatic Wyrm are called Beast-of-War, Eater-of-Souls, and Defiler Wyrm. [C08868]",
+    "cited_chunk_ids": [
+      "C08868"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "dense",
+    "question_id": "Q16",
+    "question": "Which Garou tribe became the Black Spiral Dancers, and what did they find that led to their corruption?",
+    "question_type": "multi_hop",
+    "reference_answer": "The White Howlers became the Black Spiral Dancers. They discovered the Great Pit, a portal into Malfeas, and descended into the Spiral Labyrinth there, where the Wyrm corrupted them.",
+    "gold_chunk_ids": [
+      "C08785",
+      "C01035"
+    ],
+    "gold_doc_ids": [
+      "WTA1170",
+      "WTA0132"
+    ],
+    "ranked_chunk_ids": [
+      "C01040",
+      "C01047",
+      "C01039",
+      "C01038",
+      "C01055",
+      "C01050",
+      "C01046",
+      "C01041",
+      "C01045",
+      "C01029"
+    ],
+    "ranked_doc_ids": [
+      "WTA0132",
+      "WTA0131"
+    ],
+    "context_chunk_ids": [
+      "C01040",
+      "C01047",
+      "C01039",
+      "C01038",
+      "C01055"
+    ],
+    "answer": "The White Howlers prepared for spiritual corruption [C01038]. They were driven back past Hadrian's Wall, but at a perilous cost. The Picts had secured their Scottish homelands again, but their Garou guardians had fallen prey to the conqueror Wyrm.\n\nThe White Howlers' elders returned from their final journey into the depths of Malfeas and emerged as werewolves of the Black Spiral tribe [C01038].",
+    "cited_chunk_ids": [
+      "C01038"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "dense",
+    "question_id": "Q17",
+    "question": "The Delirium is explained by an era of Garou violence against humans. What was that era called, and who led the council that decided to begin it?",
+    "question_type": "multi_hop",
+    "reference_answer": "The era was the Impergium, and the council that set human culling quotas was led by the Silver Fangs.",
+    "gold_chunk_ids": [
+      "C02036",
+      "C03577"
+    ],
+    "gold_doc_ids": [
+      "WTA0267",
+      "WTA0498"
+    ],
+    "ranked_chunk_ids": [
+      "C02038",
+      "C03581",
+      "C02035",
+      "C02036",
+      "C02039",
+      "C02037",
+      "C02723",
+      "C02040",
+      "C06674",
+      "C03577"
+    ],
+    "ranked_doc_ids": [
+      "WTA0267",
+      "WTA0498",
+      "WTA0379",
+      "WTA0867"
+    ],
+    "context_chunk_ids": [
+      "C02038",
+      "C03581",
+      "C02035",
+      "C02036",
+      "C02039"
+    ],
+    "answer": "I don't know",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "dense",
+    "question_id": "Q18",
+    "question": "Which Litany tenet do metis violate the existence of, and what unique silver weakness do they carry as a result of having no breed form?",
+    "question_type": "multi_hop",
+    "reference_answer": "They exist because their parents broke the tenet 'Garou Shall Not Mate With Garou'. Because they lack a breed form, metis take unsoakable aggravated damage from silver in any form.",
+    "gold_chunk_ids": [
+      "C04251",
+      "C07473"
+    ],
+    "gold_doc_ids": [
+      "WTA0611",
+      "WTA0972"
+    ],
+    "ranked_chunk_ids": [
+      "C04521",
+      "C04522",
+      "C04519",
+      "C04515",
+      "C04523",
+      "C04518",
+      "C04574",
+      "C04553",
+      "C04620",
+      "C06002"
+    ],
+    "ranked_doc_ids": [
+      "WTA0662",
+      "WTA0663",
+      "WTA0664",
+      "WTA0815"
+    ],
+    "context_chunk_ids": [
+      "C04521",
+      "C04522",
+      "C04519",
+      "C04515",
+      "C04523"
+    ],
+    "answer": "According to [C04515], metis are born in the Crinos form, but are deformed and sterile. This implies that they violate the Litany tenet against inbreeding or unnatural unions.\n\nAs for their unique silver weakness, it is not explicitly stated in the provided passages. I don't know",
+    "cited_chunk_ids": [
+      "C04515"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "dense",
+    "question_id": "Q19",
+    "question": "Two Garou tribes went extinct at the hands of very different enemies. How did the Croatan and the Bunyip each meet their end?",
+    "question_type": "multi_hop",
+    "reference_answer": "The Croatan destroyed themselves in a 1589 ritual to banish the Eater-of-Souls, while the Bunyip were exterminated by European Garou during the War of Tears.",
+    "gold_chunk_ids": [
+      "C01910",
+      "C01308"
+    ],
+    "gold_doc_ids": [
+      "WTA0244",
+      "WTA0173"
+    ],
+    "ranked_chunk_ids": [
+      "C01907",
+      "C01910",
+      "C01908",
+      "C01308",
+      "C08317",
+      "C01312",
+      "C01909",
+      "C01307",
+      "C01311",
+      "C01309"
+    ],
+    "ranked_doc_ids": [
+      "WTA0244",
+      "WTA0173",
+      "WTA1107"
+    ],
+    "context_chunk_ids": [
+      "C01907",
+      "C01910",
+      "C01908",
+      "C01308",
+      "C08317"
+    ],
+    "answer": "The Croatan tribe met their end by sacrificing themselves in a great ritual to banish the Eater-of-Souls, a powerful spirit of the Wyrm, back to the Deep Umbra and Malfeas [C01910]. The Bunyip, on the other hand, were wiped out by European Garou in what became known as the War of Tears, who sought to control the caerns of the Outback [C01308].",
+    "cited_chunk_ids": [
+      "C01308",
+      "C01910"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "dense",
+    "question_id": "Q20",
+    "question": "Rage is a gift from Luna and is what makes shapeshifters vulnerable to silver. Which Fera lack Rage and are therefore unharmed by it, and why are the Corax also immune?",
+    "question_type": "multi_hop",
+    "reference_answer": "The Nuwisha have no Rage and so take no special damage from silver. The Corax are immune because they are linked to the sun rather than the moon, and gold harms them instead.",
+    "gold_chunk_ids": [
+      "C06111",
+      "C07476"
+    ],
+    "gold_doc_ids": [
+      "WTA0827",
+      "WTA0972"
+    ],
+    "ranked_chunk_ids": [
+      "C08603",
+      "C06111",
+      "C06121",
+      "C07477",
+      "C01750",
+      "C01758",
+      "C08598",
+      "C06112",
+      "C01756",
+      "C07476"
+    ],
+    "ranked_doc_ids": [
+      "WTA1152",
+      "WTA0827",
+      "WTA0828",
+      "WTA0972",
+      "WTA0227"
+    ],
+    "context_chunk_ids": [
+      "C08603",
+      "C06111",
+      "C06121",
+      "C07477",
+      "C01750"
+    ],
+    "answer": "The Nuwisha lack Rage [C06111]. They do not suffer from susceptibility to silver because of this.\n\nThe Corax have Rage, but they rarely develop it and are not known for violent outbursts. However, their ability to fly and communicate quickly allows them to report their findings to one another and the Garou, which may contribute to their immunity [C01750].",
+    "cited_chunk_ids": [
+      "C01750",
+      "C06111"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "dense",
+    "question_id": "Q21",
+    "question": "What was the name of the fourth Garou tribe that crossed the ice into the Pure Lands alongside the Uktena, Wendigo, and Croatan?",
+    "question_type": "unanswerable",
+    "reference_answer": "I don't know",
+    "gold_chunk_ids": [],
+    "gold_doc_ids": [],
+    "ranked_chunk_ids": [
+      "C01908",
+      "C01912",
+      "C01907",
+      "C08399",
+      "C08655",
+      "C02731",
+      "C08315",
+      "C08323",
+      "C08727",
+      "C08317"
+    ],
+    "ranked_doc_ids": [
+      "WTA0244",
+      "WTA1121",
+      "WTA1161",
+      "WTA0382",
+      "WTA1107",
+      "WTA1108",
+      "WTA1164"
+    ],
+    "context_chunk_ids": [
+      "C01908",
+      "C01912",
+      "C01907",
+      "C08399",
+      "C08655"
+    ],
+    "answer": "I don't know. The context passages only mention three tribes crossing the ice together: the Uktena, the Wendigo, and the Croatan [C01908]. There is no information about a fourth tribe.",
+    "cited_chunk_ids": [
+      "C01908"
+    ],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "dense",
+    "question_id": "Q22",
+    "question": "Which totem do the Ashen Hunters tribe follow?",
+    "question_type": "unanswerable",
+    "reference_answer": "I don't know",
+    "gold_chunk_ids": [],
+    "gold_doc_ids": [],
+    "ranked_chunk_ids": [
+      "C00763",
+      "C01860",
+      "C08320",
+      "C01408",
+      "C00318",
+      "C00440",
+      "C05630",
+      "C05640",
+      "C05014",
+      "C01397"
+    ],
+    "ranked_doc_ids": [
+      "WTA0107",
+      "WTA0235",
+      "WTA1108",
+      "WTA0181",
+      "WTA0044",
+      "WTA0053",
+      "WTA0775",
+      "WTA0777",
+      "WTA0708",
+      "WTA0179"
+    ],
+    "context_chunk_ids": [
+      "C00763",
+      "C01860",
+      "C08320",
+      "C01408",
+      "C00318"
+    ],
+    "answer": "I don't know. The provided context passages do not mention the Ashen Hunters tribe or their totem.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "dense",
+    "question_id": "Q23",
+    "question": "What was Lore-Speaker Gron's auspice?",
+    "question_type": "unanswerable",
+    "reference_answer": "I don't know",
+    "gold_chunk_ids": [],
+    "gold_doc_ids": [],
+    "ranked_chunk_ids": [
+      "C03580",
+      "C03043",
+      "C03001",
+      "C03049",
+      "C03002",
+      "C03039",
+      "C03059",
+      "C02909",
+      "C03194",
+      "C03050"
+    ],
+    "ranked_doc_ids": [
+      "WTA0498",
+      "WTA0425",
+      "WTA0418",
+      "WTA0426",
+      "WTA0396",
+      "WTA0440"
+    ],
+    "context_chunk_ids": [
+      "C03580",
+      "C03043",
+      "C03001",
+      "C03049",
+      "C03002"
+    ],
+    "answer": "I don't know",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "dense",
+    "question_id": "Q24",
+    "question": "How many Black Spiral Dancer Hives are active in North America during the Final Nights?",
+    "question_type": "unanswerable",
+    "reference_answer": "I don't know",
+    "gold_chunk_ids": [],
+    "gold_doc_ids": [],
+    "ranked_chunk_ids": [
+      "C01044",
+      "C03302",
+      "C03301",
+      "C07175",
+      "C08324",
+      "C01040",
+      "C04946",
+      "C01054",
+      "C03303",
+      "C01042"
+    ],
+    "ranked_doc_ids": [
+      "WTA0132",
+      "WTA0464",
+      "WTA0927",
+      "WTA1109",
+      "WTA0695"
+    ],
+    "context_chunk_ids": [
+      "C01044",
+      "C03302",
+      "C03301",
+      "C07175",
+      "C08324"
+    ],
+    "answer": "I don't know",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "dense",
+    "question_id": "Q25",
+    "question": "What was the birth name of the first Garou to survive dancing the Black Spiral?",
+    "question_type": "unanswerable",
+    "reference_answer": "I don't know",
+    "gold_chunk_ids": [],
+    "gold_doc_ids": [],
+    "ranked_chunk_ids": [
+      "C01047",
+      "C01040",
+      "C01029",
+      "C01050",
+      "C01051",
+      "C01039",
+      "C01055",
+      "C00950",
+      "C01046",
+      "C01025"
+    ],
+    "ranked_doc_ids": [
+      "WTA0132",
+      "WTA0131",
+      "WTA0130"
+    ],
+    "context_chunk_ids": [
+      "C01047",
+      "C01040",
+      "C01029",
+      "C01050",
+      "C01051"
+    ],
+    "answer": "I don't know",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q01",
+    "question": "How often do the Fianna recite the Litany in its entirety, and where do they do it?",
+    "question_type": "factoid",
+    "reference_answer": "Four times a year the Fianna gather in their tribal homelands to recite the whole Litany, which can take hours.",
+    "gold_chunk_ids": [
+      "C04249"
+    ],
+    "gold_doc_ids": [
+      "WTA0611"
+    ],
+    "ranked_chunk_ids": [
+      "C04249",
+      "C04253",
+      "C04250",
+      "C07148",
+      "C07149",
+      "C07147",
+      "C02397",
+      "C02782",
+      "C01395",
+      "C02405"
+    ],
+    "ranked_doc_ids": [
+      "WTA0611",
+      "WTA0927",
+      "WTA0339",
+      "WTA0389",
+      "WTA0178"
+    ],
+    "context_chunk_ids": [
+      "C04249",
+      "C04253",
+      "C04250",
+      "C07148",
+      "C07149"
+    ],
+    "answer": "According to [C04249], four times a year, the werewolves of the Fianna tribe gather in their tribal homelands to recite the Litany in its entirety.",
+    "cited_chunk_ids": [
+      "C04249"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q02",
+    "question": "Which group of humans is completely immune to the Delirium?",
+    "question_type": "factoid",
+    "reference_answer": "Kinfolk are entirely immune to the Delirium, unlike other humans who see a shapeshifter in its war form.",
+    "gold_chunk_ids": [
+      "C02035"
+    ],
+    "gold_doc_ids": [
+      "WTA0267"
+    ],
+    "ranked_chunk_ids": [
+      "C02035",
+      "C03430",
+      "C02039",
+      "C02036",
+      "C00762",
+      "C03448",
+      "C00325",
+      "C02037",
+      "C02038",
+      "C06674"
+    ],
+    "ranked_doc_ids": [
+      "WTA0267",
+      "WTA0482",
+      "WTA0107",
+      "WTA0044",
+      "WTA0867"
+    ],
+    "context_chunk_ids": [
+      "C02035",
+      "C03430",
+      "C02039",
+      "C02036",
+      "C00762"
+    ],
+    "answer": "Kinfolk [C02035]. They are entirely immune to the effects of Delirium.",
+    "cited_chunk_ids": [
+      "C02035"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q03",
+    "question": "What was the Impergium?",
+    "question_type": "factoid",
+    "reference_answer": "The Impergium was the prehistoric culling of human populations carried out by the Garou to keep humanity in check.",
+    "gold_chunk_ids": [
+      "C03576"
+    ],
+    "gold_doc_ids": [
+      "WTA0498"
+    ],
+    "ranked_chunk_ids": [
+      "C03580",
+      "C03581",
+      "C03576",
+      "C03579",
+      "C03578",
+      "C03577",
+      "C02036",
+      "C07161",
+      "C08597",
+      "C07334"
+    ],
+    "ranked_doc_ids": [
+      "WTA0498",
+      "WTA0267",
+      "WTA0927",
+      "WTA1152",
+      "WTA0956"
+    ],
+    "context_chunk_ids": [
+      "C03580",
+      "C03581",
+      "C03576",
+      "C03579",
+      "C03578"
+    ],
+    "answer": "The Impergium was the culling of the human population practiced by the Garou in prehistoric times [C03576]. This involved savagely killing humans, which the Children of Gaia believed went against Gaia's will [C03578]. The Glass Walkers attempted to subvert this practice by breeding with humans and explaining the Impergium to them, so that they could \"sacrifice\" troublemakers to the other Garou [C03579].",
+    "cited_chunk_ids": [
+      "C03576",
+      "C03578",
+      "C03579"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q04",
+    "question": "Why are metis born, and what two traits do all metis share?",
+    "question_type": "factoid",
+    "reference_answer": "Metis are the offspring of two Garou who broke the Litany by mating. They are born in Crinos form, are sterile, and carry an innate deformity.",
+    "gold_chunk_ids": [
+      "C04515"
+    ],
+    "gold_doc_ids": [
+      "WTA0662"
+    ],
+    "ranked_chunk_ids": [
+      "C04515",
+      "C04516",
+      "C04523",
+      "C04518",
+      "C04522",
+      "C00149",
+      "C00760",
+      "C00270",
+      "C03112",
+      "C04517"
+    ],
+    "ranked_doc_ids": [
+      "WTA0662",
+      "WTA0022",
+      "WTA0107",
+      "WTA0043",
+      "WTA0436"
+    ],
+    "context_chunk_ids": [
+      "C04515",
+      "C04516",
+      "C04523",
+      "C04518",
+      "C04522"
+    ],
+    "answer": "According to [C04515], Metis are born when two Garou break the Litany for love or lust. All metis share the traits of being born in the Crinos form and being deformed and sterile [C04515].",
+    "cited_chunk_ids": [
+      "C04515"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q05",
+    "question": "What material is a klaive made from, and why is that significant for the Garou who wields it?",
+    "question_type": "factoid",
+    "reference_answer": "A klaive is forged from silver, which is deadly to Garou, so klaives are rare and are often made by Kinfolk smiths.",
+    "gold_chunk_ids": [
+      "C04059"
+    ],
+    "gold_doc_ids": [
+      "WTA0576"
+    ],
+    "ranked_chunk_ids": [
+      "C04059",
+      "C04062",
+      "C04063",
+      "C04065",
+      "C02962",
+      "C02959",
+      "C04061",
+      "C02960",
+      "C04060",
+      "C01439"
+    ],
+    "ranked_doc_ids": [
+      "WTA0576",
+      "WTA0409",
+      "WTA0183"
+    ],
+    "context_chunk_ids": [
+      "C04059",
+      "C04062",
+      "C04063",
+      "C04065",
+      "C02962"
+    ],
+    "answer": "A klaive is made of silver [C04059]. This is significant because carrying a klaive reduces the wielder's effective Gnosis rating by one point [C04059]. Additionally, as seen in the description of the Alpha Klaive, werewolves cannot soak damage from a silver klaive and still treat its wounds as aggravated [C04065].",
+    "cited_chunk_ids": [
+      "C04059",
+      "C04065"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q06",
+    "question": "How does silver damage affect metis differently from other Garou?",
+    "question_type": "factoid",
+    "reference_answer": "Metis have no breed form to shelter them, so they take unsoakable aggravated damage from silver in any form.",
+    "gold_chunk_ids": [
+      "C07473"
+    ],
+    "gold_doc_ids": [
+      "WTA0972"
+    ],
+    "ranked_chunk_ids": [
+      "C07472",
+      "C07473",
+      "C02929",
+      "C07474",
+      "C07481",
+      "C04544",
+      "C07476",
+      "C08910",
+      "C07478",
+      "C03115"
+    ],
+    "ranked_doc_ids": [
+      "WTA0972",
+      "WTA0401",
+      "WTA0973",
+      "WTA0663",
+      "WTA1187",
+      "WTA0436"
+    ],
+    "context_chunk_ids": [
+      "C07472",
+      "C07473",
+      "C02929",
+      "C07474",
+      "C07481"
+    ],
+    "answer": "According to [C07472], Metis do not have safety of a breed form to shield them from the ravages of silver. They take unsoakable aggravated damage from silver in any form. This is different from other Garou, who can soak some or all of the damage depending on their form and whether they have a gift or fetish.\n\n[C07472]",
+    "cited_chunk_ids": [
+      "C07472"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q07",
+    "question": "Which moon phase governs the Ahroun auspice, and what role does it assign?",
+    "question_type": "factoid",
+    "reference_answer": "The Ahroun is born under the full moon and serves as the warrior and living weapon of Gaia.",
+    "gold_chunk_ids": [
+      "C00085"
+    ],
+    "gold_doc_ids": [
+      "WTA0018"
+    ],
+    "ranked_chunk_ids": [
+      "C03113",
+      "C00110",
+      "C00085",
+      "C04336",
+      "C02698",
+      "C00125",
+      "C03307",
+      "C04338",
+      "C00087",
+      "C06790"
+    ],
+    "ranked_doc_ids": [
+      "WTA0436",
+      "WTA0019",
+      "WTA0018",
+      "WTA0629",
+      "WTA0378",
+      "WTA0465",
+      "WTA0884"
+    ],
+    "context_chunk_ids": [
+      "C03113",
+      "C00110",
+      "C00085",
+      "C04336",
+      "C02698"
+    ],
+    "answer": "The Full Moon governs the Ahroun auspice [C00085]. During this phase, Luna assumes the visage of Diana the Huntress, searching out her enemies, and the Ahroun can call upon her determination in finding their foes [C00110].",
+    "cited_chunk_ids": [
+      "C00085",
+      "C00110"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q08",
+    "question": "How did the Croatan tribe come to an end?",
+    "question_type": "factoid",
+    "reference_answer": "The entire tribe died in 1589 sacrificing itself in a ritual that drove the Eater-of-Souls back to the Deep Umbra and Malfeas.",
+    "gold_chunk_ids": [
+      "C01910"
+    ],
+    "gold_doc_ids": [
+      "WTA0244"
+    ],
+    "ranked_chunk_ids": [
+      "C01910",
+      "C01907",
+      "C01911",
+      "C08658",
+      "C01909",
+      "C01914",
+      "C01913",
+      "C01908",
+      "C01912",
+      "C01916"
+    ],
+    "ranked_doc_ids": [
+      "WTA0244",
+      "WTA1161"
+    ],
+    "context_chunk_ids": [
+      "C01910",
+      "C01907",
+      "C01911",
+      "C08658",
+      "C01909"
+    ],
+    "answer": "The Croatan tribe came to an end in 1589, when they sacrificed their entire tribe in a great ritual to drive back the Eater-of-Souls and prevent it from starting the Apocalypse [C01910]. This sacrifice was so thorough that no new cubs were born to their kinfolk, and their tribal totem, Turtle, was plunged into deep Slumber and has not awoken for centuries [C01910].",
+    "cited_chunk_ids": [
+      "C01910"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q09",
+    "question": "What event destroyed the Bunyip, and what animal were their Kinfolk?",
+    "question_type": "factoid",
+    "reference_answer": "European Garou wiped out the Bunyip in the War of Tears, and their animal Kinfolk were thylacines, which went extinct in the 1930s.",
+    "gold_chunk_ids": [
+      "C01308"
+    ],
+    "gold_doc_ids": [
+      "WTA0173"
+    ],
+    "ranked_chunk_ids": [
+      "C01311",
+      "C01313",
+      "C01309",
+      "C01310",
+      "C01307",
+      "C01327",
+      "C01314",
+      "C01308",
+      "C01315",
+      "C01323"
+    ],
+    "ranked_doc_ids": [
+      "WTA0173",
+      "WTA0174"
+    ],
+    "context_chunk_ids": [
+      "C01311",
+      "C01313",
+      "C01309",
+      "C01310",
+      "C01307"
+    ],
+    "answer": "The event that destroyed the Bunyip is not explicitly stated in the provided passages, but it is mentioned that \"the last of their surviving animal kin went extinct in the 1930s\" [C01309]. This suggests that the extinction of their thylacine Kinfolk was a significant factor in the decline and eventual destruction of the Bunyip.\n\nTheir Kinfolk were thylacines.",
+    "cited_chunk_ids": [
+      "C01309"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q10",
+    "question": "What do the Black Spiral Dancers call their septs and their caerns?",
+    "question_type": "factoid",
+    "reference_answer": "Black Spiral Dancer septs are called Hives and the caerns where they raise their young are called Pits.",
+    "gold_chunk_ids": [
+      "C01044"
+    ],
+    "gold_doc_ids": [
+      "WTA0132"
+    ],
+    "ranked_chunk_ids": [
+      "C01044",
+      "C01054",
+      "C08328",
+      "C01055",
+      "C07229",
+      "C01040",
+      "C05758",
+      "C01038",
+      "C07258",
+      "C01046"
+    ],
+    "ranked_doc_ids": [
+      "WTA0132",
+      "WTA1109",
+      "WTA0938",
+      "WTA0792",
+      "WTA0944"
+    ],
+    "context_chunk_ids": [
+      "C01044",
+      "C01054",
+      "C08328",
+      "C01055",
+      "C07229"
+    ],
+    "answer": "According to [C01044], the Black Spiral Dancers call their septs \"Hives\" and their caerns where they raise their young are called \"Pits\".",
+    "cited_chunk_ids": [
+      "C01044"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q11",
+    "question": "How much starting Gnosis does each Garou breed receive?",
+    "question_type": "factoid",
+    "reference_answer": "Homid characters start with 1 Gnosis, metis with 3, and lupus with 5.",
+    "gold_chunk_ids": [
+      "C02914"
+    ],
+    "gold_doc_ids": [
+      "WTA0397"
+    ],
+    "ranked_chunk_ids": [
+      "C03419",
+      "C02914",
+      "C06338",
+      "C03423",
+      "C06112",
+      "C08425",
+      "C00149",
+      "C04361",
+      "C04122",
+      "C08424"
+    ],
+    "ranked_doc_ids": [
+      "WTA0481",
+      "WTA0397",
+      "WTA0845",
+      "WTA0482",
+      "WTA0827",
+      "WTA1123",
+      "WTA0022",
+      "WTA0634",
+      "WTA0588"
+    ],
+    "context_chunk_ids": [
+      "C03419",
+      "C02914",
+      "C06338",
+      "C03423",
+      "C06112"
+    ],
+    "answer": "According to [C02914], Homid characters start out with 1 Gnosis. However, there is no information provided about the other breeds (Lupus, Metis) in this question. I don't know the starting Gnosis for Lupus and Metis breeds based on the given context passages.\n\nHowever, it does mention that Rokea have the same beginning Gnosis as Homid-born Garou [C03419], which is 1 Gnosis.",
+    "cited_chunk_ids": [
+      "C02914",
+      "C03419"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q12",
+    "question": "What is a sept in Garou society?",
+    "question_type": "factoid",
+    "reference_answer": "A sept is the community of Garou who live near a caern and defend it from the Wyrm, the Weaver, and other threats.",
+    "gold_chunk_ids": [
+      "C07200"
+    ],
+    "gold_doc_ids": [
+      "WTA0932"
+    ],
+    "ranked_chunk_ids": [
+      "C02173",
+      "C07201",
+      "C05367",
+      "C07200",
+      "C05681",
+      "C07247",
+      "C01225",
+      "C07245",
+      "C05435",
+      "C08662"
+    ],
+    "ranked_doc_ids": [
+      "WTA0298",
+      "WTA0932",
+      "WTA0735",
+      "WTA0785",
+      "WTA0941",
+      "WTA0155",
+      "WTA0746",
+      "WTA1161"
+    ],
+    "context_chunk_ids": [
+      "C02173",
+      "C07201",
+      "C05367",
+      "C07200",
+      "C05681"
+    ],
+    "answer": "A group of Garou who live near and tend an individual caern, defending it from various threats. [C07200]",
+    "cited_chunk_ids": [
+      "C07200"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q13",
+    "question": "What membership restriction does the Black Furies tribe apply?",
+    "question_type": "factoid",
+    "reference_answer": "The Black Furies accept only women as members, with the exception of a few male metis.",
+    "gold_chunk_ids": [
+      "C00895"
+    ],
+    "gold_doc_ids": [
+      "WTA0128"
+    ],
+    "ranked_chunk_ids": [
+      "C00908",
+      "C00895",
+      "C00909",
+      "C00913",
+      "C00900",
+      "C00898",
+      "C00903",
+      "C00899",
+      "C00911",
+      "C06525"
+    ],
+    "ranked_doc_ids": [
+      "WTA0128",
+      "WTA0858"
+    ],
+    "context_chunk_ids": [
+      "C00908",
+      "C00895",
+      "C00909",
+      "C00913",
+      "C00900"
+    ],
+    "answer": "According to [C00895], the Black Furies only accept women as members, save a few male metis. This is also mentioned in [C00908] where it states \"the Black Furies think of themselves as providing opportunities to females who would have otherwise been oppressed.\"",
+    "cited_chunk_ids": [
+      "C00895",
+      "C00908"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q14",
+    "question": "Why are the Corax immune to silver?",
+    "question_type": "factoid",
+    "reference_answer": "The Corax are tied to Helios and the sun rather than Luna and the moon, so silver has no power over them. Gold affects them instead.",
+    "gold_chunk_ids": [
+      "C07476"
+    ],
+    "gold_doc_ids": [
+      "WTA0972"
+    ],
+    "ranked_chunk_ids": [
+      "C07476",
+      "C01756",
+      "C02929",
+      "C08292",
+      "C08290",
+      "C01758",
+      "C01781",
+      "C08291",
+      "C01784",
+      "C01823"
+    ],
+    "ranked_doc_ids": [
+      "WTA0972",
+      "WTA0227",
+      "WTA0401",
+      "WTA1103",
+      "WTA0228"
+    ],
+    "context_chunk_ids": [
+      "C07476",
+      "C01756",
+      "C02929",
+      "C08292",
+      "C08290"
+    ],
+    "answer": "The Corax are linked to the Sun, not the Moon [C07476]. This is why they are completely immune to the effects of silver.",
+    "cited_chunk_ids": [
+      "C07476"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q15",
+    "question": "What are the three heads of the Triatic Wyrm called?",
+    "question_type": "factoid",
+    "reference_answer": "They are Beast-of-War the Wyrm of Calamity, Eater-of-Souls, and the Defiler Wyrm the Wyrm of Corruption.",
+    "gold_chunk_ids": [
+      "C08868",
+      "C08869"
+    ],
+    "gold_doc_ids": [
+      "WTA1186"
+    ],
+    "ranked_chunk_ids": [
+      "C08868",
+      "C08304",
+      "C08305",
+      "C08869",
+      "C01909",
+      "C01954",
+      "C08303",
+      "C05862",
+      "C08866",
+      "C04649"
+    ],
+    "ranked_doc_ids": [
+      "WTA1186",
+      "WTA1106",
+      "WTA0244",
+      "WTA0251",
+      "WTA1105",
+      "WTA0800",
+      "WTA0669"
+    ],
+    "context_chunk_ids": [
+      "C08868",
+      "C08304",
+      "C08305",
+      "C08869",
+      "C01909"
+    ],
+    "answer": "The three heads of the Triatic Wyrm are called Beast-of-War [C08868], Eater-of-Souls [C08304, C08305, C08869], and Defiler Wyrm [C08868, C08304, C08305, C08869].",
+    "cited_chunk_ids": [
+      "C08868"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q16",
+    "question": "Which Garou tribe became the Black Spiral Dancers, and what did they find that led to their corruption?",
+    "question_type": "multi_hop",
+    "reference_answer": "The White Howlers became the Black Spiral Dancers. They discovered the Great Pit, a portal into Malfeas, and descended into the Spiral Labyrinth there, where the Wyrm corrupted them.",
+    "gold_chunk_ids": [
+      "C08785",
+      "C01035"
+    ],
+    "gold_doc_ids": [
+      "WTA1170",
+      "WTA0132"
+    ],
+    "ranked_chunk_ids": [
+      "C01038",
+      "C01055",
+      "C01046",
+      "C01039",
+      "C01040",
+      "C01041",
+      "C01042",
+      "C07626",
+      "C00984",
+      "C01047"
+    ],
+    "ranked_doc_ids": [
+      "WTA0132",
+      "WTA0987",
+      "WTA0130"
+    ],
+    "context_chunk_ids": [
+      "C01038",
+      "C01055",
+      "C01046",
+      "C01039",
+      "C01040"
+    ],
+    "answer": "The White Howlers prepared for spiritual corruption [C01038]. They descended into the depths of Malfeas, but when they emerged, they had become werewolves of the Black Spiral tribe [C01038]. \n\nThe White Howlers were a Garou tribe that became corrupted by the Wyrm.",
+    "cited_chunk_ids": [
+      "C01038"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q17",
+    "question": "The Delirium is explained by an era of Garou violence against humans. What was that era called, and who led the council that decided to begin it?",
+    "question_type": "multi_hop",
+    "reference_answer": "The era was the Impergium, and the council that set human culling quotas was led by the Silver Fangs.",
+    "gold_chunk_ids": [
+      "C02036",
+      "C03577"
+    ],
+    "gold_doc_ids": [
+      "WTA0267",
+      "WTA0498"
+    ],
+    "ranked_chunk_ids": [
+      "C02723",
+      "C00516",
+      "C02038",
+      "C01957",
+      "C03581",
+      "C02035",
+      "C01958",
+      "C02036",
+      "C02039",
+      "C07544"
+    ],
+    "ranked_doc_ids": [
+      "WTA0379",
+      "WTA0068",
+      "WTA0267",
+      "WTA0251",
+      "WTA0498",
+      "WTA0974"
+    ],
+    "context_chunk_ids": [
+      "C02723",
+      "C00516",
+      "C02038",
+      "C01957",
+      "C03581"
+    ],
+    "answer": "I don't know",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q18",
+    "question": "Which Litany tenet do metis violate the existence of, and what unique silver weakness do they carry as a result of having no breed form?",
+    "question_type": "multi_hop",
+    "reference_answer": "They exist because their parents broke the tenet 'Garou Shall Not Mate With Garou'. Because they lack a breed form, metis take unsoakable aggravated damage from silver in any form.",
+    "gold_chunk_ids": [
+      "C04251",
+      "C07473"
+    ],
+    "gold_doc_ids": [
+      "WTA0611",
+      "WTA0972"
+    ],
+    "ranked_chunk_ids": [
+      "C04515",
+      "C04518",
+      "C04252",
+      "C04521",
+      "C04251",
+      "C04522",
+      "C04519",
+      "C04253",
+      "C04523",
+      "C07473"
+    ],
+    "ranked_doc_ids": [
+      "WTA0662",
+      "WTA0611",
+      "WTA0972"
+    ],
+    "context_chunk_ids": [
+      "C04515",
+      "C04518",
+      "C04252",
+      "C04521",
+      "C04251"
+    ],
+    "answer": "Metis violate the existence of the Litany tenet \"Garou Shall Not Mate With Garou\" [C04251]. Metis have no breed form, which is why they are deformed and sterile in their natural Crinos form [C04515].",
+    "cited_chunk_ids": [
+      "C04251",
+      "C04515"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q19",
+    "question": "Two Garou tribes went extinct at the hands of very different enemies. How did the Croatan and the Bunyip each meet their end?",
+    "question_type": "multi_hop",
+    "reference_answer": "The Croatan destroyed themselves in a 1589 ritual to banish the Eater-of-Souls, while the Bunyip were exterminated by European Garou during the War of Tears.",
+    "gold_chunk_ids": [
+      "C01910",
+      "C01308"
+    ],
+    "gold_doc_ids": [
+      "WTA0244",
+      "WTA0173"
+    ],
+    "ranked_chunk_ids": [
+      "C01308",
+      "C08317",
+      "C01309",
+      "C01310",
+      "C08929",
+      "C01312",
+      "C01311",
+      "C08658",
+      "C01307",
+      "C02700"
+    ],
+    "ranked_doc_ids": [
+      "WTA0173",
+      "WTA1107",
+      "WTA1188",
+      "WTA1161",
+      "WTA0378"
+    ],
+    "context_chunk_ids": [
+      "C01308",
+      "C08317",
+      "C01309",
+      "C01310",
+      "C08929"
+    ],
+    "answer": "According to [C01308], the Bunyip were wiped out in the War of Tears by European Garou who sought to control the caerns of the Outback.\n\nI don't know about the fate of the Croatan.",
+    "cited_chunk_ids": [
+      "C01308"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q20",
+    "question": "Rage is a gift from Luna and is what makes shapeshifters vulnerable to silver. Which Fera lack Rage and are therefore unharmed by it, and why are the Corax also immune?",
+    "question_type": "multi_hop",
+    "reference_answer": "The Nuwisha have no Rage and so take no special damage from silver. The Corax are immune because they are linked to the sun rather than the moon, and gold harms them instead.",
+    "gold_chunk_ids": [
+      "C06111",
+      "C07476"
+    ],
+    "gold_doc_ids": [
+      "WTA0827",
+      "WTA0972"
+    ],
+    "ranked_chunk_ids": [
+      "C08603",
+      "C06111",
+      "C07476",
+      "C04765",
+      "C02930",
+      "C02146",
+      "C06121",
+      "C07477",
+      "C01750",
+      "C08341"
+    ],
+    "ranked_doc_ids": [
+      "WTA1152",
+      "WTA0827",
+      "WTA0972",
+      "WTA0685",
+      "WTA0401",
+      "WTA0292",
+      "WTA0828",
+      "WTA0227",
+      "WTA1110"
+    ],
+    "context_chunk_ids": [
+      "C08603",
+      "C06111",
+      "C07476",
+      "C04765",
+      "C02930"
+    ],
+    "answer": "The Nuwisha do not have Rage [C06111]. The Corax are linked to the Sun, not the Moon, which is why they are immune to silver [C07476].",
+    "cited_chunk_ids": [
+      "C06111",
+      "C07476"
+    ],
+    "hallucinated_citations": [],
+    "refused": false
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q21",
+    "question": "What was the name of the fourth Garou tribe that crossed the ice into the Pure Lands alongside the Uktena, Wendigo, and Croatan?",
+    "question_type": "unanswerable",
+    "reference_answer": "I don't know",
+    "gold_chunk_ids": [],
+    "gold_doc_ids": [],
+    "ranked_chunk_ids": [
+      "C01908",
+      "C01912",
+      "C08399",
+      "C08655",
+      "C05014",
+      "C08315",
+      "C01907",
+      "C08658",
+      "C02731",
+      "C07822"
+    ],
+    "ranked_doc_ids": [
+      "WTA0244",
+      "WTA1121",
+      "WTA1161",
+      "WTA0708",
+      "WTA1107",
+      "WTA0382",
+      "WTA1020"
+    ],
+    "context_chunk_ids": [
+      "C01908",
+      "C01912",
+      "C08399",
+      "C08655",
+      "C05014"
+    ],
+    "answer": "I don't know",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q22",
+    "question": "Which totem do the Ashen Hunters tribe follow?",
+    "question_type": "unanswerable",
+    "reference_answer": "I don't know",
+    "gold_chunk_ids": [],
+    "gold_doc_ids": [],
+    "ranked_chunk_ids": [
+      "C01860",
+      "C05630",
+      "C00763",
+      "C02139",
+      "C00143",
+      "C00230",
+      "C08320",
+      "C01408",
+      "C05403",
+      "C00318"
+    ],
+    "ranked_doc_ids": [
+      "WTA0235",
+      "WTA0775",
+      "WTA0107",
+      "WTA0291",
+      "WTA0021",
+      "WTA0034",
+      "WTA1108",
+      "WTA0181",
+      "WTA0740",
+      "WTA0044"
+    ],
+    "context_chunk_ids": [
+      "C01860",
+      "C05630",
+      "C00763",
+      "C02139",
+      "C00143"
+    ],
+    "answer": "I don't know. The provided context passages do not mention the Ashen Hunters tribe or its totem.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q23",
+    "question": "What was Lore-Speaker Gron's auspice?",
+    "question_type": "unanswerable",
+    "reference_answer": "I don't know",
+    "gold_chunk_ids": [],
+    "gold_doc_ids": [],
+    "ranked_chunk_ids": [
+      "C03580",
+      "C00158",
+      "C03043",
+      "C02104",
+      "C03001",
+      "C02623",
+      "C03049",
+      "C03002",
+      "C04621",
+      "C02721"
+    ],
+    "ranked_doc_ids": [
+      "WTA0498",
+      "WTA0022",
+      "WTA0425",
+      "WTA0283",
+      "WTA0418",
+      "WTA0372",
+      "WTA0664",
+      "WTA0379"
+    ],
+    "context_chunk_ids": [
+      "C03580",
+      "C00158",
+      "C03043",
+      "C02104",
+      "C03001"
+    ],
+    "answer": "I don't know.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q24",
+    "question": "How many Black Spiral Dancer Hives are active in North America during the Final Nights?",
+    "question_type": "unanswerable",
+    "reference_answer": "I don't know",
+    "gold_chunk_ids": [],
+    "gold_doc_ids": [],
+    "ranked_chunk_ids": [
+      "C01044",
+      "C03302",
+      "C03301",
+      "C00763",
+      "C03540",
+      "C08328",
+      "C01042",
+      "C06617",
+      "C08324",
+      "C04946"
+    ],
+    "ranked_doc_ids": [
+      "WTA0132",
+      "WTA0464",
+      "WTA0107",
+      "WTA0490",
+      "WTA1109",
+      "WTA0861",
+      "WTA0695"
+    ],
+    "context_chunk_ids": [
+      "C01044",
+      "C03302",
+      "C03301",
+      "C00763",
+      "C03540"
+    ],
+    "answer": "I don't know",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  },
+  {
+    "system": "hybrid",
+    "question_id": "Q25",
+    "question": "What was the birth name of the first Garou to survive dancing the Black Spiral?",
+    "question_type": "unanswerable",
+    "reference_answer": "I don't know",
+    "gold_chunk_ids": [],
+    "gold_doc_ids": [],
+    "ranked_chunk_ids": [
+      "C01047",
+      "C01059",
+      "C01040",
+      "C01048",
+      "C01029",
+      "C01064",
+      "C00651",
+      "C01050",
+      "C00979",
+      "C01051"
+    ],
+    "ranked_doc_ids": [
+      "WTA0132",
+      "WTA0133",
+      "WTA0131",
+      "WTA0089",
+      "WTA0130"
+    ],
+    "context_chunk_ids": [
+      "C01047",
+      "C01059",
+      "C01040",
+      "C01048",
+      "C01029"
+    ],
+    "answer": "I don't know. The provided context passages do not mention the birth name of the first Garou to survive dancing the Black Spiral.",
+    "cited_chunk_ids": [],
+    "hallucinated_citations": [],
+    "refused": true
+  }
+]
