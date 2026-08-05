@@ -15,6 +15,9 @@ data/processed/chunk_embeddings.npy
 # Personal working notes, not part of the submitted deliverable
 report/VIDEO_SCRIPT.md
 
+# The assignment brief itself. Kept locally, not redistributed.
+Course Project.pdf
+
 # Editor and OS noise
 .vscode/
 .idea/
